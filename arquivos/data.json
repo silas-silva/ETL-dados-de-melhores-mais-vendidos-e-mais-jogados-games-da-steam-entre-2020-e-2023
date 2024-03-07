@@ -1,0 +1,6229 @@
+{
+    "best sellers": {
+        "2020": {
+            "Platinum": {
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "DOOM Eternal": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Fall Guys": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Sports"
+                    ]
+                },
+                "Among Us": {
+                    "genre": [
+                        "Casual"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "Gold": {
+                "Mount & Blade II: Bannerlord": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Halo: The Master Chief Collection": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Elder Scrolls® Online": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Borderlands 3": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                }
+            },
+            "Silver": {
+                "Hades": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Assassin's Creed® Odyssey": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Total War: WARHAMMER II": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Microsoft Flight Simulator 40th Anniversary Edition": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Black Desert": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Planet Zoo": {
+                    "genre": [
+                        "Casual",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                }
+            },
+            "Bronze": {
+                "theHunter: Call of the Wild™": {
+                    "genre": [
+                        "Adventure",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Wallpaper Engine": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Animation & Modeling",
+                        "Design & Illustration",
+                        "Photo Editing",
+                        "Utilities"
+                    ]
+                },
+                "NBA 2K20": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "Human Fall Flat": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Fallout 76": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Arma 3": {
+                    "genre": [
+                        "Action",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Call of Duty®: Black Ops III": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "World of Warships": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Persona 4 Golden": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Total War: THREE KINGDOMS": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Temtem": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "SMITE®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Sekiro™: Shadows Die Twice - GOTY Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Risk of Rain 2": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                },
+                "Satisfactory": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Hunt: Showdown": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "DARK SOULS™ III": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Divinity: Original Sin 2 - Definitive Edition": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Don't Starve Together": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Ori and the Will of the Wisps": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Sims™ 4": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Tabletop Simulator": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Age of Empires II: Definitive Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Farming Simulator 19": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Fallout 4": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Resident Evil 3": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Dying Light": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "GTFO": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Command & Conquer™ Remastered Collection": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Conan Exiles": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "DRAGON BALL Z: KAKAROT": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Metro Exodus": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Yu-Gi-Oh! Duel Links": {
+                    "genre": [
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Horizon Zero Dawn™ Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Grounded": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Lords Mobile": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Europa Universalis IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Far Cry® 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "NBA 2K21": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Pummel Party": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "EA SPORTS™ FIFA 21": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Marvel's Avengers - The Definitive Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "STAR WARS™: Squadrons": {
+                    "genre": [
+                        "Action",
+                        "Simulation"
+                    ]
+                },
+                "Half-Life: Alyx": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "STAR WARS Jedi: Fallen Order™": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Deep Rock Galactic": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Remnant: From the Ashes": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Wolcen: Lords of Mayhem": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "American Truck Simulator": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                }
+            }
+        },
+        "2021": {
+            "Platinum": {
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Battlefield™ 2042": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "Valheim": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "Gold": {
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "It Takes Two": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "The Elder Scrolls® Online": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "FIFA 22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Back 4 Blood": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Forza Horizon 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Forza Horizon 4": {
+                    "genre": [
+                        "Racing"
+                    ]
+                }
+            },
+            "Silver": {
+                "OUTRIDERS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "The Sims™ 4": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Halo Infinite": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Black Desert": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Mass Effect™ Legendary Edition": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Age of Empires IV: Anniversary Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Resident Evil Village": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                }
+            },
+            "Bronze": {
+                "Dying Light": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "World of Warships": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "DOOM Eternal": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "World of Tanks Blitz": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Age of Empires II: Definitive Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Yu-Gi-Oh! Duel Links": {
+                    "genre": [
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Microsoft Flight Simulator 40th Anniversary Edition": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Borderlands 3": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "GUILTY GEAR -STRIVE-": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Phantasy Star Online 2 New Genesis": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Hades": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "SMITE®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Total War: WARHAMMER II": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Planet Zoo": {
+                    "genre": [
+                        "Casual",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Fall Guys": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Sports"
+                    ]
+                },
+                "Bloons TD 6": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Fallout 76": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "EA Play": {
+                    "genre": []
+                },
+                "Hunt: Showdown": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Tales of Arise": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Halo: The Master Chief Collection": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Deep Rock Galactic": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "NBA 2K21": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Sekiro™: Shadows Die Twice - GOTY Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "STAR WARS™: The Old Republic™": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Horizon Zero Dawn™ Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "HUMANKIND™": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Call of Duty®: Black Ops III": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "NieR Replicant™ ver.1.22474487139...": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Battlefield™ V": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "EA SPORTS™ FIFA 21": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Dyson Sphere Program": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "BIOMUTANT": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "鬼谷八荒 Tale of Immortal": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Arma 3": {
+                    "genre": [
+                        "Action",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Days Gone": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "NBA 2K22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "F1® 2021": {
+                    "genre": [
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Wallpaper Engine": {
+                    "genre": [
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "The Binding of Isaac: Rebirth": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Fallout 4": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Half-Life: Alyx": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Satisfactory": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Nioh 2 – The Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "theHunter: Call of the Wild™": {
+                    "genre": [
+                        "Adventure",
+                        "Simulation",
+                        "Sports"
+                    ]
+                }
+            }
+        },
+        "2022": {
+            "Platinum": {
+                "ELDEN RING": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Call of Duty®": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "MONSTER HUNTER RISE": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Dying Light 2 Stay Human: Reloaded Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Lost Ark": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Yu-Gi-Oh! Master Duel": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "Gold": {
+                "Total War: WARHAMMER III": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Ready or Not": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "Forza Horizon 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "God of War": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "EA SPORTS™ FIFA 23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                }
+            },
+            "Silver": {
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "NBA 2K22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Black Desert": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Stray": {
+                    "genre": [
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Cult of the Lamb": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Strategy"
+                    ]
+                },
+                "V Rising": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Project Zomboid": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Hunt: Showdown": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "It Takes Two": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "The Sims™ 4": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "FIFA 22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "LEGO® Star Wars™: The Skywalker Saga": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Warhammer 40,000: Darktide": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "The Elder Scrolls® Online": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Marvel’s Spider-Man Remastered": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                }
+            },
+            "Bronze": {
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Halo Infinite": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Age of Empires IV: Anniversary Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "NBA 2K23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "UNDECEMBER": {
+                    "genre": [
+                        "Action",
+                        "Free to Play",
+                        "RPG"
+                    ]
+                },
+                "Borderlands 3": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Sekiro™: Shadows Die Twice - GOTY Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "World of Warships": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "F1® 22": {
+                    "genre": [
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "Risk of Rain 2": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                },
+                "Battlefield™ 2042": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "SMITE®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Victoria 3": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "theHunter: Call of the Wild™": {
+                    "genre": [
+                        "Adventure",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Call of Duty®: Black Ops III": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Fallout 76": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Planet Zoo": {
+                    "genre": [
+                        "Casual",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Mount & Blade II: Bannerlord": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "STAR WARS™: The Old Republic™": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Battlefield™ V": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Persona 5 Royal": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Squad": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Strategy"
+                    ]
+                },
+                "Tiny Tina's Wonderlands": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Horizon Zero Dawn™ Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Valheim": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Microsoft Flight Simulator 40th Anniversary Edition": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Arma 3": {
+                    "genre": [
+                        "Action",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "FINAL FANTASY VII REMAKE INTERGRADE": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Hell Let Loose": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Satisfactory": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "American Truck Simulator": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Deep Rock Galactic": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Forza Horizon 4": {
+                    "genre": [
+                        "Racing"
+                    ]
+                },
+                "Wallpaper Engine": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Animation & Modeling",
+                        "Design & Illustration",
+                        "Photo Editing",
+                        "Utilities"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Grounded": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Dread Hunger": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                }
+            }
+        },
+        "2023": {
+            "Platinum": {
+                "Call of Duty®": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Starfield": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Sons Of The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Hogwarts Legacy": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Lost Ark": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "Gold": {
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "EA SPORTS FC™ 24": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Resident Evil 4": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "ELDEN RING": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "EA SPORTS™ FIFA 23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "ARMORED CORE™ VI FIRES OF RUBICON™": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                }
+            },
+            "Silver": {
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "STAR WARS Jedi: Survivor™": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Dead Space": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "REMNANT II®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "The Sims™ 4": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Lethal Company": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "BattleBit Remastered": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                },
+                "Party Animals": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "Project Zomboid": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Street Fighter™ 6": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "NBA 2K23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Black Desert": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Total War: WARHAMMER III": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "The Elder Scrolls® Online": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Forza Horizon 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Cities: Skylines II": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "ARK: Survival Ascended": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Yu-Gi-Oh! Master Duel": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                }
+            },
+            "Bronze": {
+                "Age of Wonders 4": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Anno 1800": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "DREDGE": {
+                    "genre": [
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "MONSTER HUNTER RISE": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Marvel’s Spider-Man Remastered": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "The Last of Us™ Part I": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Hunt: Showdown": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Microsoft Flight Simulator 40th Anniversary Edition": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "F1® 23": {
+                    "genre": [
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "Warhammer 40,000: Darktide": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "Sekiro™: Shadows Die Twice - GOTY Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Dying Light 2 Stay Human: Reloaded Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "Wallpaper Engine": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Animation & Modeling",
+                        "Design & Illustration",
+                        "Photo Editing",
+                        "Utilities"
+                    ]
+                },
+                "Call of Duty®: Black Ops III": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Fallout 76": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Mortal Kombat 1": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "PAYDAY 3": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Atomic Heart": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "BeamNG.drive": {
+                    "genre": [
+                        "Racing",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "World of Warships": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Persona 5 Royal": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Lies of P": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "DAVE THE DIVER": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Battlefield™ 2042": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "Wo Long: Fallen Dynasty": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "The Outlast Trials": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Deep Rock Galactic": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Summoners War: Chronicles": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "American Truck Simulator": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Ready or Not": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Marvel’s Spider-Man: Miles Morales": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "It Takes Two": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Grounded": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Age of Empires IV: Anniversary Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Borderlands 3": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                }
+            }
+        }
+    },
+    "best releases": {
+        "2020": {
+            "Platinum": {
+                "Grounded": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Wolcen: Lords of Mayhem": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "The Outer Worlds": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Microsoft Flight Simulator 40th Anniversary Edition": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Persona 4 Golden": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Half-Life: Alyx": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Command & Conquer™ Remastered Collection": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Marvel's Avengers - The Definitive Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Fall Guys": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Sports"
+                    ]
+                },
+                "DRAGON BALL Z: KAKAROT": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Mount & Blade II: Bannerlord": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Temtem": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "DOOM Eternal": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Borderlands 3": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Horizon Zero Dawn™ Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Mafia: Definitive Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "STAR WARS™: Squadrons": {
+                    "genre": [
+                        "Action",
+                        "Simulation"
+                    ]
+                },
+                "EA SPORTS™ FIFA 21": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Resident Evil 3": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                }
+            }
+        },
+        "2021": {
+            "Platinum": {
+                "Resident Evil Village": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Age of Empires IV: Anniversary Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Battlefield™ 2042": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "OUTRIDERS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Mass Effect™ Legendary Edition": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Back 4 Blood": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Halo Infinite": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Valheim": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Forza Horizon 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                }
+            },
+            "Gold": {
+                "BIOMUTANT": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "F1® 2021": {
+                    "genre": [
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Days Gone": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "It Takes Two": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "DEATHLOOP": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "NieR Replicant™ ver.1.22474487139...": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Tales of Arise": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Pathfinder: Wrath of the Righteous - Enhanced Edition": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "HUMANKIND™": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "鬼谷八荒 Tale of Immortal": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "GUILTY GEAR -STRIVE-": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "ICARUS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Simulation"
+                    ]
+                }
+            }
+        },
+        "2022": {
+            "Platinum": {
+                "Lost Ark": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "LEGO® Star Wars™: The Skywalker Saga": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "ELDEN RING": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Warhammer 40,000: Darktide": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "Stray": {
+                    "genre": [
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "MONSTER HUNTER RISE": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Yu-Gi-Oh! Master Duel": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Call of Duty®": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "V Rising": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                },
+                "EA SPORTS™ FIFA 23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Dying Light 2 Stay Human: Reloaded Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Total War: WARHAMMER III": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                }
+            },
+            "Gold": {
+                "God of War": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "FINAL FANTASY VII REMAKE INTERGRADE": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Cult of the Lamb": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Strategy"
+                    ]
+                },
+                "Victoria 3": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Persona 5 Royal": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "F1® 22": {
+                    "genre": [
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "Tiny Tina's Wonderlands": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Dwarf Fortress": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Marvel’s Spider-Man Remastered": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "High On Life": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                }
+            },
+            "Silver": {
+                "The Stanley Parable: Ultra Deluxe": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "WWE 2K22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "SD GUNDAM BATTLE ALLIANCE": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Gotham Knights": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Need for Speed™ Unbound": {
+                    "genre": [
+                        "Action",
+                        "Racing"
+                    ]
+                },
+                "Chivalry 2": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "THE KING OF FIGHTERS XV": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "NBA 2K23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Rogue Legacy 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Sonic Frontiers": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Farthest Frontier": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Marvel’s Spider-Man: Miles Morales": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Marvel's Midnight Suns": {
+                    "genre": [
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Ghostwire: Tokyo": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Callisto Protocol™": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "CRISIS CORE –FINAL FANTASY VII– REUNION": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Teenage Mutant Ninja Turtles: Shredder's Revenge": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "F1® Manager 2022": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Warhammer 40,000: Chaos Gate - Daemonhunters": {
+                    "genre": [
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Sniper Elite 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Slime Rancher 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Grounded": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Core Keeper": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Mount & Blade II: Bannerlord": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "MultiVersus": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Assassin's Creed Valhalla": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                }
+            }
+        },
+        "2023": {
+            "Platinum": {
+                "STAR WARS Jedi: Survivor™": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "EA SPORTS FC™ 24": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "REMNANT II®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Cities: Skylines II": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Street Fighter™ 6": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Hogwarts Legacy": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Sons Of The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Starfield": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "PAYDAY 3": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Resident Evil 4": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "ARMORED CORE™ VI FIRES OF RUBICON™": {
+                    "genre": [
+                        "Action"
+                    ]
+                }
+            },
+            "Gold": {
+                "Dead Space": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Age of Wonders 4": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Football Manager 2024": {
+                    "genre": [
+                        "Simulation",
+                        "Sports",
+                        "Strategy"
+                    ]
+                },
+                "BattleBit Remastered": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                },
+                "THE FINALS": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Atomic Heart": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "DAVE THE DIVER": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "The Outlast Trials": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "ARK: Survival Ascended": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Party Animals": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "Mortal Kombat 1": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Wo Long: Fallen Dynasty": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                }
+            },
+            "Silver": {
+                "WILD HEARTS™": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Hi-Fi RUSH": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "For The King II": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "The Last of Us™ Part I": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Far Cry® 6": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "NBA 2K24": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Lies of P": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Ready or Not": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "Forza Motorsport": {
+                    "genre": [
+                        "Racing"
+                    ]
+                },
+                "Risk of Rain Returns": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "OCTOPATH TRAVELER II": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Lords of the Fallen": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Wartales": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Warhammer 40,000: Rogue Trader": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Wayfinder": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Diablo® IV": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Love Is All Around": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Kerbal Space Program 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Company of Heroes 3": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "MARVEL SNAP": {
+                    "genre": [
+                        "Casual",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "F1® 23": {
+                    "genre": [
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "Starship Troopers: Extermination": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Darkest Dungeon® II": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "The Texas Chain Saw Massacre": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                },
+                "DREDGE": {
+                    "genre": [
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Six Days in Fallujah": {
+                    "genre": [
+                        "Action",
+                        "Early Access"
+                    ]
+                }
+            }
+        }
+    },
+    "most played": {
+        "2020": {
+            "200000": {
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Among Us": {
+                    "genre": [
+                        "Casual"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Mount & Blade II: Bannerlord": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Life is Strange 2": {
+                    "genre": [
+                        "Adventure"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "100000": {
+                "Wolcen: Lords of Mayhem": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "DOOM Eternal": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Rocket League®": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "Human Fall Flat": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Fall Guys": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Sports"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                }
+            },
+            "50000": {
+                "Sid Meier's Civilization® V": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "PAYDAY 2": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Eternal Return": {
+                    "genre": [
+                        "Indie",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Halo: The Master Chief Collection": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Tomb Raider": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Resident Evil 3": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Total War: WARHAMMER II": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Borderlands 3": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Horizon Zero Dawn™ Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Left 4 Dead 2": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Total War: SHOGUN 2": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Microsoft Flight Simulator 40th Anniversary Edition": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Garry's Mod": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Risk of Rain 2": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                }
+            },
+            "30000": {
+                "Ori and the Will of the Wisps": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Half-Life: Alyx": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Total War: THREE KINGDOMS": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Conan Exiles": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "XCOM®: Chimera Squad": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Mafia: Definitive Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Assassin's Creed® Odyssey": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Command & Conquer™ Remastered Collection": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Marvel's Avengers - The Definitive Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "Temtem": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "NBA 2K20": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Hades": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Arma 3": {
+                    "genre": [
+                        "Action",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Divinity: Original Sin 2 - Definitive Edition": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Europa Universalis IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Don't Starve Together": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Scrap Mechanic": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Unturned": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Free to Play"
+                    ]
+                },
+                "Dark Shadows - Army of Evil": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Factorio": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Last Oasis": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Farming Simulator 19": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Brawlhalla": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Free to Play"
+                    ]
+                },
+                "Age of Empires II: Definitive Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Black Desert": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "7 Days to Die": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "STAR WARS™: Squadrons": {
+                    "genre": [
+                        "Action",
+                        "Simulation"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "World of Tanks Blitz": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "The Elder Scrolls® Online": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Tabletop Simulator": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "STAR WARS™: The Old Republic™": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Dota Underlords": {
+                    "genre": [
+                        "Casual",
+                        "Free to Play",
+                        "Strategy"
+                    ]
+                }
+            }
+        },
+        "2021": {
+            "200000": {
+                "Halo Infinite": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Valheim": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                }
+            },
+            "100000": {
+                "鬼谷八荒 Tale of Immortal": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Battlefield™ 2042": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Among Us": {
+                    "genre": [
+                        "Casual"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Resident Evil Village": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Rocket League®": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "OUTRIDERS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Wallpaper Engine": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Animation & Modeling",
+                        "Design & Illustration",
+                        "Photo Editing",
+                        "Utilities"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "60000": {
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "Total War: WARHAMMER II": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Forza Horizon 5": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Racing",
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Back 4 Blood": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Unturned": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Free to Play"
+                    ]
+                },
+                "Cookie Clicker": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "The Binding of Isaac: Rebirth": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Splitgate": {
+                    "genre": [
+                        "Action",
+                        "Free to Play",
+                        "Indie"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Age of Empires IV: Anniversary Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "MIR4": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Don't Starve Together": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Bless Unleashed": {
+                    "genre": [
+                        "Action",
+                        "Free to Play",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "PAYDAY 2": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Tales of Arise": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Battlefield™ V": {
+                    "genre": [
+                        "Action"
+                    ]
+                }
+            },
+            "30000": {
+                "World of Tanks Blitz": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Evil Genius 2: World Domination": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Farming Simulator 19": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "Nioh 2 – The Complete Edition": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Loop Hero": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "HUMANKIND™": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Gunfire Reborn": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Deep Rock Galactic": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "7 Days to Die": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Draw & Guess": {
+                    "genre": [
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "EA SPORTS™ FIFA 21": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Myth of Empires": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Sid Meier's Civilization® V": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Satisfactory": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "tModLoader": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "BIOMUTANT": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "ICARUS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Simulation"
+                    ]
+                },
+                "Project Zomboid": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Eternal Return": {
+                    "genre": [
+                        "Indie",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Mass Effect™ Legendary Edition": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Brawlhalla": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Free to Play"
+                    ]
+                },
+                "Tribes of Midgard": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Fallout 4": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "The Elder Scrolls® Online": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Dyson Sphere Program": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Hades": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "SMITE®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Company of Heroes 2": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Battlefield™ 1": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "Age of Empires II: Definitive Edition": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Phantasy Star Online 2 New Genesis": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Monster Hunter Stories 2: Wings of Ruin": {
+                    "genre": [
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Dying Light": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Crab Game": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Free to Play",
+                        "Indie",
+                        "Racing"
+                    ]
+                },
+                "Pathfinder: Wrath of the Righteous - Enhanced Edition": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "FIFA 22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Left 4 Dead 2": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Bloons TD 6": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Arma 3": {
+                    "genre": [
+                        "Action",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Hunt: Showdown": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Garry's Mod": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Risk of Rain 2": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                },
+                "GUILTY GEAR -STRIVE-": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                }
+            }
+        },
+        "2022": {
+            "240000": {
+                "Dying Light 2 Stay Human: Reloaded Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Call of Duty®": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "ELDEN RING": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Lost Ark": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Yu-Gi-Oh! Master Duel": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Goose Goose Duck": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                }
+            },
+            "130000": {
+                "Total War: WARHAMMER III": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "MONSTER HUNTER RISE": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "MultiVersus": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Wallpaper Engine": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Animation & Modeling",
+                        "Design & Illustration",
+                        "Photo Editing",
+                        "Utilities"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "V Rising": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                }
+            },
+            "75000": {
+                "Warhammer 40,000: Darktide": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "FIFA 22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "The Sims™ 4": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Unturned": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Free to Play"
+                    ]
+                },
+                "Need for Speed™ Heat": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "LEGO® Star Wars™: The Skywalker Saga": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Valheim": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Left 4 Dead 2": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "EA SPORTS™ FIFA 23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Vampire Survivors": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Dread Hunger": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "Raft": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Warhammer: Vermintide 2": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                }
+            },
+            "40000": {
+                "NBA 2K22": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "太吾绘卷 The Scroll Of Taiwu": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "7 Days to Die": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "UNDECEMBER": {
+                    "genre": [
+                        "Action",
+                        "Free to Play",
+                        "RPG"
+                    ]
+                },
+                "Stumble Guys": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "World of Tanks Blitz": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Mirror 2: Project X": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Deep Rock Galactic": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Project Zomboid": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "Fall Guys": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Sports"
+                    ]
+                },
+                "God of War": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "VRChat": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Sports",
+                        "Free to Play",
+                        "Early Access"
+                    ]
+                },
+                "Don't Starve Together": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "GUNDAM EVOLUTION": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "PAYDAY 2": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Cult of the Lamb": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Strategy"
+                    ]
+                },
+                "MIR4": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Halo Infinite": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "RimWorld": {
+                    "genre": [
+                        "Indie",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Mount & Blade II: Bannerlord": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Victoria 3": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Stellaris": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "SUPER PEOPLE 2": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "Free to Play",
+                        "Early Access"
+                    ]
+                },
+                "Battlefield™ V": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Garry's Mod": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "Marvel’s Spider-Man Remastered": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "Risk of Rain 2": {
+                    "genre": [
+                        "Action",
+                        "Indie"
+                    ]
+                },
+                "No Man's Sky": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Stray": {
+                    "genre": [
+                        "Adventure",
+                        "Indie"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Crusader Kings III": {
+                    "genre": [
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "The Cycle: Frontier": {
+                    "genre": [
+                        "Action",
+                        "Free to Play",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "暖雪 Warm Snow": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "Conan Exiles": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Battlefield™ 1": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer"
+                    ]
+                }
+            }
+        },
+        "2023": {
+            "300000": {
+                "Baldur's Gate 3": {
+                    "genre": [
+                        "Adventure",
+                        "RPG",
+                        "Strategy"
+                    ]
+                },
+                "Goose Goose Duck": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Apex Legends™": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Dota 2": {
+                    "genre": [
+                        "Action",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "Hogwarts Legacy": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Destiny 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Free to Play"
+                    ]
+                },
+                "Starfield": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Lost Ark": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "PUBG: BATTLEGROUNDS": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Counter-Strike 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Sons Of The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                }
+            },
+            "150000": {
+                "THE FINALS": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Grand Theft Auto V": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Resident Evil 4": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Team Fortress 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Path of Exile": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "NARAKA: BLADEPOINT": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "ARMORED CORE™ VI FIRES OF RUBICON™": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Call of Duty®": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Cyberpunk 2077": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "Rust": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Lethal Company": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Early Access"
+                    ]
+                }
+            },
+            "80000": {
+                "BattleBit Remastered": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                },
+                "Battlefield™ V": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Unturned": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "Free to Play"
+                    ]
+                },
+                "War Thunder": {
+                    "genre": [
+                        "Action",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "EA SPORTS FC™ 24": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Party Animals": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "7 Days to Die": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy",
+                        "Early Access"
+                    ]
+                },
+                "Battlefield™ 2042": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual"
+                    ]
+                },
+                "Left 4 Dead 2": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "REMNANT II®": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Phasmophobia": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Early Access"
+                    ]
+                },
+                "Don't Starve Together": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "DAVE THE DIVER": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "ARK: Survival Evolved": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Sid Meier’s Civilization® VI": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "Warframe": {
+                    "genre": [
+                        "Action",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Cities: Skylines II": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "ELDEN RING": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                },
+                "Tom Clancy's Rainbow Six® Siege": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Valheim": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Early Access"
+                    ]
+                },
+                "Football Manager 2024": {
+                    "genre": [
+                        "Simulation",
+                        "Sports",
+                        "Strategy"
+                    ]
+                },
+                "EA SPORTS™ FIFA 23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "VPet": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Dead by Daylight": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "ARK: Survival Ascended": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Massively Multiplayer",
+                        "RPG",
+                        "Early Access"
+                    ]
+                }
+            },
+            "40000": {
+                "Total War: WARHAMMER III": {
+                    "genre": [
+                        "Action",
+                        "Strategy"
+                    ]
+                },
+                "Rocket League®": {
+                    "genre": [
+                        "Action",
+                        "Indie",
+                        "Racing",
+                        "Sports"
+                    ]
+                },
+                "Love Is All Around": {
+                    "genre": [
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Farlight 84": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Free to Play"
+                    ]
+                },
+                "Cities: Skylines": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "Street Fighter™ 6": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Hunt: Showdown": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Red Dead Redemption 2": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "STAR WARS Jedi: Survivor™": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Wo Long: Fallen Dynasty": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Risk of Rain Returns": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Garry's Mod": {
+                    "genre": [
+                        "Casual",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "Hearts of Iron IV": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy"
+                    ]
+                },
+                "MONSTER HUNTER RISE": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "Farming Simulator 22": {
+                    "genre": [
+                        "Simulation"
+                    ]
+                },
+                "V Rising": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "Early Access"
+                    ]
+                },
+                "Overwatch® 2": {
+                    "genre": [
+                        "Action",
+                        "Free to Play"
+                    ]
+                },
+                "Project Zomboid": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation",
+                        "Early Access"
+                    ]
+                },
+                "FINAL FANTASY XIV Online": {
+                    "genre": [
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "Last Epoch": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "The Elder Scrolls V: Skyrim Special Edition": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "The Witcher® 3: Wild Hunt": {
+                    "genre": [
+                        "RPG"
+                    ]
+                },
+                "tModLoader": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG",
+                        "Free to Play"
+                    ]
+                },
+                "Monster Hunter: World": {
+                    "genre": [
+                        "Action"
+                    ]
+                },
+                "HoloCure - Save the Fans!": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Casual",
+                        "Indie"
+                    ]
+                },
+                "Stardew Valley": {
+                    "genre": [
+                        "Indie",
+                        "RPG",
+                        "Simulation"
+                    ]
+                },
+                "The Forest": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "The Sims™ 4": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Simulation",
+                        "Free to Play"
+                    ]
+                },
+                "Age of Wonders 4": {
+                    "genre": [
+                        "Strategy"
+                    ]
+                },
+                "NBA 2K23": {
+                    "genre": [
+                        "Simulation",
+                        "Sports"
+                    ]
+                },
+                "Terraria": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Indie",
+                        "RPG"
+                    ]
+                },
+                "PAYDAY 3": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Lords of the Fallen": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "RPG"
+                    ]
+                },
+                "Crab Game": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Free to Play",
+                        "Indie",
+                        "Racing"
+                    ]
+                },
+                "Sea of Thieves 2023 Edition": {
+                    "genre": [
+                        "Action",
+                        "Adventure"
+                    ]
+                },
+                "Yu-Gi-Oh! Master Duel": {
+                    "genre": [
+                        "Simulation",
+                        "Strategy",
+                        "Free to Play"
+                    ]
+                },
+                "DayZ": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer"
+                    ]
+                },
+                "Euro Truck Simulator 2": {
+                    "genre": [
+                        "Indie",
+                        "Simulation"
+                    ]
+                },
+                "New World": {
+                    "genre": [
+                        "Action",
+                        "Adventure",
+                        "Massively Multiplayer",
+                        "RPG"
+                    ]
+                },
+                "MY HERO ULTRA RUMBLE": {
+                    "genre": [
+                        "Action",
+                        "Casual",
+                        "Free to Play"
+                    ]
+                },
+                "VRChat": {
+                    "genre": [
+                        "Adventure",
+                        "Casual",
+                        "Massively Multiplayer",
+                        "Simulation",
+                        "Sports",
+                        "Free to Play",
+                        "Early Access"
+                    ]
+                },
+                "PAYDAY 2": {
+                    "genre": [
+                        "Action",
+                        "RPG"
+                    ]
+                }
+            }
+        }
+    }
+}

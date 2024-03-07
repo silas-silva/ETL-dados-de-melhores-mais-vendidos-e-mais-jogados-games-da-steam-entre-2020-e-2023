@@ -1,0 +1,1027 @@
+year;rank;game;genre;is_indie
+2020;Platinum;Counter-Strike 2;Action;False
+2020;Platinum;Counter-Strike 2;Free to Play;False
+2020;Platinum;Grand Theft Auto V;Action;False
+2020;Platinum;Grand Theft Auto V;Adventure;False
+2020;Platinum;Monster Hunter: World;Action;False
+2020;Platinum;DOOM Eternal;Action;False
+2020;Platinum;PUBG: BATTLEGROUNDS;Action;False
+2020;Platinum;PUBG: BATTLEGROUNDS;Adventure;False
+2020;Platinum;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2020;Platinum;PUBG: BATTLEGROUNDS;Free to Play;False
+2020;Platinum;Cyberpunk 2077;RPG;False
+2020;Platinum;Tom Clancy's Rainbow Six® Siege;Action;False
+2020;Platinum;Fall Guys;Action;True
+2020;Platinum;Fall Guys;Casual;True
+2020;Platinum;Fall Guys;Indie;True
+2020;Platinum;Fall Guys;Massively Multiplayer;True
+2020;Platinum;Fall Guys;Sports;True
+2020;Platinum;Among Us;Casual;False
+2020;Platinum;Red Dead Redemption 2;Action;False
+2020;Platinum;Red Dead Redemption 2;Adventure;False
+2020;Platinum;Destiny 2;Action;False
+2020;Platinum;Destiny 2;Adventure;False
+2020;Platinum;Destiny 2;Free to Play;False
+2020;Platinum;Dota 2;Action;False
+2020;Platinum;Dota 2;Strategy;False
+2020;Platinum;Dota 2;Free to Play;False
+2020;Gold;Mount & Blade II: Bannerlord;Action;True
+2020;Gold;Mount & Blade II: Bannerlord;Indie;True
+2020;Gold;Mount & Blade II: Bannerlord;RPG;True
+2020;Gold;Mount & Blade II: Bannerlord;Simulation;True
+2020;Gold;Mount & Blade II: Bannerlord;Strategy;True
+2020;Gold;Warframe;Action;False
+2020;Gold;Warframe;RPG;False
+2020;Gold;Warframe;Free to Play;False
+2020;Gold;Dead by Daylight;Action;False
+2020;Gold;Halo: The Master Chief Collection;Action;False
+2020;Gold;The Elder Scrolls® Online;Action;False
+2020;Gold;The Elder Scrolls® Online;Adventure;False
+2020;Gold;The Elder Scrolls® Online;Massively Multiplayer;False
+2020;Gold;The Elder Scrolls® Online;RPG;False
+2020;Gold;Crusader Kings III;RPG;False
+2020;Gold;Crusader Kings III;Simulation;False
+2020;Gold;Crusader Kings III;Strategy;False
+2020;Gold;Sid Meier’s Civilization® VI;Strategy;False
+2020;Gold;Borderlands 3;Action;False
+2020;Gold;Borderlands 3;RPG;False
+2020;Gold;Baldur's Gate 3;Adventure;False
+2020;Gold;Baldur's Gate 3;RPG;False
+2020;Gold;Baldur's Gate 3;Strategy;False
+2020;Gold;ARK: Survival Evolved;Action;True
+2020;Gold;ARK: Survival Evolved;Adventure;True
+2020;Gold;ARK: Survival Evolved;Indie;True
+2020;Gold;ARK: Survival Evolved;Massively Multiplayer;True
+2020;Gold;ARK: Survival Evolved;RPG;True
+2020;Gold;Sea of Thieves 2023 Edition;Action;False
+2020;Gold;Sea of Thieves 2023 Edition;Adventure;False
+2020;Gold;Phasmophobia;Action;True
+2020;Gold;Phasmophobia;Indie;True
+2020;Gold;Phasmophobia;Early Access;True
+2020;Silver;Hades;Action;True
+2020;Silver;Hades;Indie;True
+2020;Silver;Hades;RPG;True
+2020;Silver;Team Fortress 2;Action;False
+2020;Silver;Team Fortress 2;Free to Play;False
+2020;Silver;Euro Truck Simulator 2;Indie;True
+2020;Silver;Euro Truck Simulator 2;Simulation;True
+2020;Silver;Assassin's Creed® Odyssey;Action;False
+2020;Silver;Assassin's Creed® Odyssey;Adventure;False
+2020;Silver;Assassin's Creed® Odyssey;RPG;False
+2020;Silver;Rust;Action;True
+2020;Silver;Rust;Adventure;True
+2020;Silver;Rust;Indie;True
+2020;Silver;Rust;Massively Multiplayer;True
+2020;Silver;Rust;RPG;True
+2020;Silver;Total War: WARHAMMER II;Action;False
+2020;Silver;Total War: WARHAMMER II;Strategy;False
+2020;Silver;The Witcher® 3: Wild Hunt;RPG;False
+2020;Silver;Raft;Adventure;True
+2020;Silver;Raft;Indie;True
+2020;Silver;Raft;Simulation;True
+2020;Silver;Cities: Skylines;Simulation;False
+2020;Silver;Cities: Skylines;Strategy;False
+2020;Silver;Path of Exile;Action;True
+2020;Silver;Path of Exile;Adventure;True
+2020;Silver;Path of Exile;Indie;True
+2020;Silver;Path of Exile;Massively Multiplayer;True
+2020;Silver;Path of Exile;RPG;True
+2020;Silver;Path of Exile;Free to Play;True
+2020;Silver;Microsoft Flight Simulator 40th Anniversary Edition;Simulation;False
+2020;Silver;Stellaris;Simulation;False
+2020;Silver;Stellaris;Strategy;False
+2020;Silver;War Thunder;Action;False
+2020;Silver;War Thunder;Massively Multiplayer;False
+2020;Silver;War Thunder;Simulation;False
+2020;Silver;War Thunder;Free to Play;False
+2020;Silver;Black Desert;Action;False
+2020;Silver;Black Desert;Adventure;False
+2020;Silver;Black Desert;Massively Multiplayer;False
+2020;Silver;Black Desert;RPG;False
+2020;Silver;Black Desert;Simulation;False
+2020;Silver;Black Desert;Strategy;False
+2020;Silver;Planet Zoo;Casual;False
+2020;Silver;Planet Zoo;Simulation;False
+2020;Silver;Planet Zoo;Strategy;False
+2020;Silver;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2020;Silver;FINAL FANTASY XIV Online;RPG;False
+2020;Bronze;theHunter: Call of the Wild™;Adventure;False
+2020;Bronze;theHunter: Call of the Wild™;Simulation;False
+2020;Bronze;theHunter: Call of the Wild™;Sports;False
+2020;Bronze;Wallpaper Engine;Casual;True
+2020;Bronze;Wallpaper Engine;Indie;True
+2020;Bronze;NBA 2K20;Simulation;False
+2020;Bronze;NBA 2K20;Sports;False
+2020;Bronze;Stardew Valley;Indie;True
+2020;Bronze;Stardew Valley;RPG;True
+2020;Bronze;Stardew Valley;Simulation;True
+2020;Bronze;Human Fall Flat;Adventure;True
+2020;Bronze;Human Fall Flat;Casual;True
+2020;Bronze;Human Fall Flat;Indie;True
+2020;Bronze;Human Fall Flat;Simulation;True
+2020;Bronze;Fallout 76;RPG;False
+2020;Bronze;Arma 3;Action;False
+2020;Bronze;Arma 3;Simulation;False
+2020;Bronze;Arma 3;Strategy;False
+2020;Bronze;Call of Duty®: Black Ops III;Action;False
+2020;Bronze;Call of Duty®: Black Ops III;Adventure;False
+2020;Bronze;World of Warships;Action;False
+2020;Bronze;World of Warships;Massively Multiplayer;False
+2020;Bronze;World of Warships;Simulation;False
+2020;Bronze;World of Warships;Free to Play;False
+2020;Bronze;Persona 4 Golden;RPG;False
+2020;Bronze;Total War: THREE KINGDOMS;Action;False
+2020;Bronze;Total War: THREE KINGDOMS;Strategy;False
+2020;Bronze;Temtem;Adventure;True
+2020;Bronze;Temtem;Indie;True
+2020;Bronze;Temtem;Massively Multiplayer;True
+2020;Bronze;Temtem;RPG;True
+2020;Bronze;SMITE®;Action;False
+2020;Bronze;SMITE®;Adventure;False
+2020;Bronze;SMITE®;Casual;False
+2020;Bronze;SMITE®;Massively Multiplayer;False
+2020;Bronze;SMITE®;RPG;False
+2020;Bronze;SMITE®;Strategy;False
+2020;Bronze;SMITE®;Free to Play;False
+2020;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Action;False
+2020;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Adventure;False
+2020;Bronze;RimWorld;Indie;True
+2020;Bronze;RimWorld;Simulation;True
+2020;Bronze;RimWorld;Strategy;True
+2020;Bronze;Risk of Rain 2;Action;True
+2020;Bronze;Risk of Rain 2;Indie;True
+2020;Bronze;Satisfactory;Adventure;True
+2020;Bronze;Satisfactory;Indie;True
+2020;Bronze;Satisfactory;Simulation;True
+2020;Bronze;Satisfactory;Strategy;True
+2020;Bronze;Satisfactory;Early Access;True
+2020;Bronze;Hunt: Showdown;Action;False
+2020;Bronze;DARK SOULS™ III;Action;False
+2020;Bronze;Divinity: Original Sin 2 - Definitive Edition;Adventure;False
+2020;Bronze;Divinity: Original Sin 2 - Definitive Edition;RPG;False
+2020;Bronze;Divinity: Original Sin 2 - Definitive Edition;Strategy;False
+2020;Bronze;Don't Starve Together;Action;True
+2020;Bronze;Don't Starve Together;Adventure;True
+2020;Bronze;Don't Starve Together;Indie;True
+2020;Bronze;Don't Starve Together;RPG;True
+2020;Bronze;Don't Starve Together;Simulation;True
+2020;Bronze;Don't Starve Together;Strategy;True
+2020;Bronze;Ori and the Will of the Wisps;Action;False
+2020;Bronze;The Sims™ 4;Adventure;False
+2020;Bronze;The Sims™ 4;Casual;False
+2020;Bronze;The Sims™ 4;Simulation;False
+2020;Bronze;The Sims™ 4;Free to Play;False
+2020;Bronze;Tabletop Simulator;Casual;True
+2020;Bronze;Tabletop Simulator;Indie;True
+2020;Bronze;Tabletop Simulator;RPG;True
+2020;Bronze;Tabletop Simulator;Simulation;True
+2020;Bronze;Tabletop Simulator;Strategy;True
+2020;Bronze;Hearts of Iron IV;Simulation;False
+2020;Bronze;Hearts of Iron IV;Strategy;False
+2020;Bronze;Terraria;Action;True
+2020;Bronze;Terraria;Adventure;True
+2020;Bronze;Terraria;Indie;True
+2020;Bronze;Terraria;RPG;True
+2020;Bronze;Age of Empires II: Definitive Edition;Strategy;False
+2020;Bronze;Farming Simulator 19;Simulation;False
+2020;Bronze;Fallout 4;RPG;False
+2020;Bronze;Resident Evil 3;Action;False
+2020;Bronze;Dying Light;Action;False
+2020;Bronze;Dying Light;RPG;False
+2020;Bronze;GTFO;Action;False
+2020;Bronze;Command & Conquer™ Remastered Collection;Strategy;False
+2020;Bronze;Conan Exiles;Action;False
+2020;Bronze;Conan Exiles;Adventure;False
+2020;Bronze;Conan Exiles;Massively Multiplayer;False
+2020;Bronze;Conan Exiles;RPG;False
+2020;Bronze;Conan Exiles;Simulation;False
+2020;Bronze;Conan Exiles;Strategy;False
+2020;Bronze;DRAGON BALL Z: KAKAROT;Action;False
+2020;Bronze;DRAGON BALL Z: KAKAROT;RPG;False
+2020;Bronze;Metro Exodus;Action;False
+2020;Bronze;Yu-Gi-Oh! Duel Links;Strategy;False
+2020;Bronze;Yu-Gi-Oh! Duel Links;Free to Play;False
+2020;Bronze;Horizon Zero Dawn™ Complete Edition;Action;False
+2020;Bronze;Horizon Zero Dawn™ Complete Edition;Adventure;False
+2020;Bronze;Horizon Zero Dawn™ Complete Edition;RPG;False
+2020;Bronze;Grounded;Action;False
+2020;Bronze;Grounded;Adventure;False
+2020;Bronze;Lords Mobile;Massively Multiplayer;False
+2020;Bronze;Lords Mobile;RPG;False
+2020;Bronze;Lords Mobile;Strategy;False
+2020;Bronze;Lords Mobile;Free to Play;False
+2020;Bronze;Europa Universalis IV;Simulation;False
+2020;Bronze;Europa Universalis IV;Strategy;False
+2020;Bronze;Far Cry® 5;Action;False
+2020;Bronze;Far Cry® 5;Adventure;False
+2020;Bronze;NBA 2K21;Simulation;False
+2020;Bronze;NBA 2K21;Sports;False
+2020;Bronze;Pummel Party;Action;True
+2020;Bronze;Pummel Party;Casual;True
+2020;Bronze;Pummel Party;Indie;True
+2020;Bronze;DayZ;Action;False
+2020;Bronze;DayZ;Adventure;False
+2020;Bronze;DayZ;Massively Multiplayer;False
+2020;Bronze;EA SPORTS™ FIFA 21;Simulation;False
+2020;Bronze;EA SPORTS™ FIFA 21;Sports;False
+2020;Bronze;Marvel's Avengers - The Definitive Edition;Action;False
+2020;Bronze;Marvel's Avengers - The Definitive Edition;Adventure;False
+2020;Bronze;Marvel's Avengers - The Definitive Edition;RPG;False
+2020;Bronze;STAR WARS™: Squadrons;Action;False
+2020;Bronze;STAR WARS™: Squadrons;Simulation;False
+2020;Bronze;Half-Life: Alyx;Action;False
+2020;Bronze;Half-Life: Alyx;Adventure;False
+2020;Bronze;The Forest;Action;True
+2020;Bronze;The Forest;Adventure;True
+2020;Bronze;The Forest;Indie;True
+2020;Bronze;The Forest;Simulation;True
+2020;Bronze;STAR WARS Jedi: Fallen Order™;Action;False
+2020;Bronze;STAR WARS Jedi: Fallen Order™;Adventure;False
+2020;Bronze;Apex Legends™;Action;False
+2020;Bronze;Apex Legends™;Adventure;False
+2020;Bronze;Apex Legends™;Free to Play;False
+2020;Bronze;Deep Rock Galactic;Action;False
+2020;Bronze;No Man's Sky;Action;False
+2020;Bronze;No Man's Sky;Adventure;False
+2020;Bronze;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2020;Bronze;Remnant: From the Ashes;Action;False
+2020;Bronze;Remnant: From the Ashes;Adventure;False
+2020;Bronze;Remnant: From the Ashes;RPG;False
+2020;Bronze;Wolcen: Lords of Mayhem;Action;True
+2020;Bronze;Wolcen: Lords of Mayhem;Adventure;True
+2020;Bronze;Wolcen: Lords of Mayhem;Indie;True
+2020;Bronze;Wolcen: Lords of Mayhem;RPG;True
+2020;Bronze;American Truck Simulator;Indie;True
+2020;Bronze;American Truck Simulator;Simulation;True
+2021;Platinum;Tom Clancy's Rainbow Six® Siege;Action;False
+2021;Platinum;Grand Theft Auto V;Action;False
+2021;Platinum;Grand Theft Auto V;Adventure;False
+2021;Platinum;Apex Legends™;Action;False
+2021;Platinum;Apex Legends™;Adventure;False
+2021;Platinum;Apex Legends™;Free to Play;False
+2021;Platinum;PUBG: BATTLEGROUNDS;Action;False
+2021;Platinum;PUBG: BATTLEGROUNDS;Adventure;False
+2021;Platinum;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2021;Platinum;PUBG: BATTLEGROUNDS;Free to Play;False
+2021;Platinum;Counter-Strike 2;Action;False
+2021;Platinum;Counter-Strike 2;Free to Play;False
+2021;Platinum;Dead by Daylight;Action;False
+2021;Platinum;Battlefield™ 2042;Action;False
+2021;Platinum;Battlefield™ 2042;Adventure;False
+2021;Platinum;Battlefield™ 2042;Casual;False
+2021;Platinum;Valheim;Action;True
+2021;Platinum;Valheim;Adventure;True
+2021;Platinum;Valheim;Indie;True
+2021;Platinum;Valheim;RPG;True
+2021;Platinum;Valheim;Early Access;True
+2021;Platinum;Destiny 2;Action;False
+2021;Platinum;Destiny 2;Adventure;False
+2021;Platinum;Destiny 2;Free to Play;False
+2021;Platinum;NARAKA: BLADEPOINT;Action;False
+2021;Platinum;NARAKA: BLADEPOINT;Adventure;False
+2021;Platinum;NARAKA: BLADEPOINT;Massively Multiplayer;False
+2021;Platinum;New World;Action;False
+2021;Platinum;New World;Adventure;False
+2021;Platinum;New World;Massively Multiplayer;False
+2021;Platinum;New World;RPG;False
+2021;Platinum;Dota 2;Action;False
+2021;Platinum;Dota 2;Strategy;False
+2021;Platinum;Dota 2;Free to Play;False
+2021;Gold;Rust;Action;True
+2021;Gold;Rust;Adventure;True
+2021;Gold;Rust;Indie;True
+2021;Gold;Rust;Massively Multiplayer;True
+2021;Gold;Rust;RPG;True
+2021;Gold;Sea of Thieves 2023 Edition;Action;False
+2021;Gold;Sea of Thieves 2023 Edition;Adventure;False
+2021;Gold;War Thunder;Action;False
+2021;Gold;War Thunder;Massively Multiplayer;False
+2021;Gold;War Thunder;Simulation;False
+2021;Gold;War Thunder;Free to Play;False
+2021;Gold;It Takes Two;Action;False
+2021;Gold;It Takes Two;Adventure;False
+2021;Gold;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2021;Gold;FINAL FANTASY XIV Online;RPG;False
+2021;Gold;The Elder Scrolls® Online;Action;False
+2021;Gold;The Elder Scrolls® Online;Adventure;False
+2021;Gold;The Elder Scrolls® Online;Massively Multiplayer;False
+2021;Gold;The Elder Scrolls® Online;RPG;False
+2021;Gold;Warframe;Action;False
+2021;Gold;Warframe;RPG;False
+2021;Gold;Warframe;Free to Play;False
+2021;Gold;FIFA 22;Simulation;False
+2021;Gold;FIFA 22;Sports;False
+2021;Gold;Back 4 Blood;Action;False
+2021;Gold;Red Dead Redemption 2;Action;False
+2021;Gold;Red Dead Redemption 2;Adventure;False
+2021;Gold;Forza Horizon 5;Action;False
+2021;Gold;Forza Horizon 5;Adventure;False
+2021;Gold;Forza Horizon 5;Racing;False
+2021;Gold;Forza Horizon 5;Simulation;False
+2021;Gold;Forza Horizon 5;Sports;False
+2021;Gold;Forza Horizon 4;Racing;False
+2021;Silver;OUTRIDERS;Action;False
+2021;Silver;OUTRIDERS;Adventure;False
+2021;Silver;OUTRIDERS;RPG;False
+2021;Silver;The Sims™ 4;Adventure;False
+2021;Silver;The Sims™ 4;Casual;False
+2021;Silver;The Sims™ 4;Simulation;False
+2021;Silver;The Sims™ 4;Free to Play;False
+2021;Silver;Sid Meier’s Civilization® VI;Strategy;False
+2021;Silver;Halo Infinite;Action;False
+2021;Silver;Halo Infinite;Free to Play;False
+2021;Silver;Black Desert;Action;False
+2021;Silver;Black Desert;Adventure;False
+2021;Silver;Black Desert;Massively Multiplayer;False
+2021;Silver;Black Desert;RPG;False
+2021;Silver;Black Desert;Simulation;False
+2021;Silver;Black Desert;Strategy;False
+2021;Silver;Mass Effect™ Legendary Edition;Action;False
+2021;Silver;Mass Effect™ Legendary Edition;RPG;False
+2021;Silver;Stellaris;Simulation;False
+2021;Silver;Stellaris;Strategy;False
+2021;Silver;Monster Hunter: World;Action;False
+2021;Silver;Path of Exile;Action;True
+2021;Silver;Path of Exile;Adventure;True
+2021;Silver;Path of Exile;Indie;True
+2021;Silver;Path of Exile;Massively Multiplayer;True
+2021;Silver;Path of Exile;RPG;True
+2021;Silver;Path of Exile;Free to Play;True
+2021;Silver;Euro Truck Simulator 2;Indie;True
+2021;Silver;Euro Truck Simulator 2;Simulation;True
+2021;Silver;Age of Empires IV: Anniversary Edition;Strategy;False
+2021;Silver;Resident Evil Village;Action;False
+2021;Silver;Team Fortress 2;Action;False
+2021;Silver;Team Fortress 2;Free to Play;False
+2021;Silver;ARK: Survival Evolved;Action;True
+2021;Silver;ARK: Survival Evolved;Adventure;True
+2021;Silver;ARK: Survival Evolved;Indie;True
+2021;Silver;ARK: Survival Evolved;Massively Multiplayer;True
+2021;Silver;ARK: Survival Evolved;RPG;True
+2021;Silver;Phasmophobia;Action;True
+2021;Silver;Phasmophobia;Indie;True
+2021;Silver;Phasmophobia;Early Access;True
+2021;Silver;Cyberpunk 2077;RPG;False
+2021;Bronze;Dying Light;Action;False
+2021;Bronze;Dying Light;RPG;False
+2021;Bronze;DayZ;Action;False
+2021;Bronze;DayZ;Adventure;False
+2021;Bronze;DayZ;Massively Multiplayer;False
+2021;Bronze;World of Warships;Action;False
+2021;Bronze;World of Warships;Massively Multiplayer;False
+2021;Bronze;World of Warships;Simulation;False
+2021;Bronze;World of Warships;Free to Play;False
+2021;Bronze;DOOM Eternal;Action;False
+2021;Bronze;World of Tanks Blitz;Action;False
+2021;Bronze;World of Tanks Blitz;Massively Multiplayer;False
+2021;Bronze;World of Tanks Blitz;Free to Play;False
+2021;Bronze;Age of Empires II: Definitive Edition;Strategy;False
+2021;Bronze;Yu-Gi-Oh! Duel Links;Strategy;False
+2021;Bronze;Yu-Gi-Oh! Duel Links;Free to Play;False
+2021;Bronze;Microsoft Flight Simulator 40th Anniversary Edition;Simulation;False
+2021;Bronze;Borderlands 3;Action;False
+2021;Bronze;Borderlands 3;RPG;False
+2021;Bronze;GUILTY GEAR -STRIVE-;Action;False
+2021;Bronze;The Witcher® 3: Wild Hunt;RPG;False
+2021;Bronze;Phantasy Star Online 2 New Genesis;Action;False
+2021;Bronze;Phantasy Star Online 2 New Genesis;Massively Multiplayer;False
+2021;Bronze;Phantasy Star Online 2 New Genesis;RPG;False
+2021;Bronze;Phantasy Star Online 2 New Genesis;Free to Play;False
+2021;Bronze;Stardew Valley;Indie;True
+2021;Bronze;Stardew Valley;RPG;True
+2021;Bronze;Stardew Valley;Simulation;True
+2021;Bronze;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2021;Bronze;Hades;Action;True
+2021;Bronze;Hades;Indie;True
+2021;Bronze;Hades;RPG;True
+2021;Bronze;SMITE®;Action;False
+2021;Bronze;SMITE®;Adventure;False
+2021;Bronze;SMITE®;Casual;False
+2021;Bronze;SMITE®;Massively Multiplayer;False
+2021;Bronze;SMITE®;RPG;False
+2021;Bronze;SMITE®;Strategy;False
+2021;Bronze;SMITE®;Free to Play;False
+2021;Bronze;Total War: WARHAMMER II;Action;False
+2021;Bronze;Total War: WARHAMMER II;Strategy;False
+2021;Bronze;Planet Zoo;Casual;False
+2021;Bronze;Planet Zoo;Simulation;False
+2021;Bronze;Planet Zoo;Strategy;False
+2021;Bronze;Fall Guys;Action;True
+2021;Bronze;Fall Guys;Casual;True
+2021;Bronze;Fall Guys;Indie;True
+2021;Bronze;Fall Guys;Massively Multiplayer;True
+2021;Bronze;Fall Guys;Sports;True
+2021;Bronze;Bloons TD 6;Strategy;False
+2021;Bronze;Crusader Kings III;RPG;False
+2021;Bronze;Crusader Kings III;Simulation;False
+2021;Bronze;Crusader Kings III;Strategy;False
+2021;Bronze;Fallout 76;RPG;False
+2021;Bronze;Hunt: Showdown;Action;False
+2021;Bronze;Tales of Arise;Action;False
+2021;Bronze;Tales of Arise;RPG;False
+2021;Bronze;Halo: The Master Chief Collection;Action;False
+2021;Bronze;Deep Rock Galactic;Action;False
+2021;Bronze;NBA 2K21;Simulation;False
+2021;Bronze;NBA 2K21;Sports;False
+2021;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Action;False
+2021;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Adventure;False
+2021;Bronze;STAR WARS™: The Old Republic™;Massively Multiplayer;False
+2021;Bronze;STAR WARS™: The Old Republic™;RPG;False
+2021;Bronze;STAR WARS™: The Old Republic™;Free to Play;False
+2021;Bronze;Horizon Zero Dawn™ Complete Edition;Action;False
+2021;Bronze;Horizon Zero Dawn™ Complete Edition;Adventure;False
+2021;Bronze;Horizon Zero Dawn™ Complete Edition;RPG;False
+2021;Bronze;HUMANKIND™;Strategy;False
+2021;Bronze;Cities: Skylines;Simulation;False
+2021;Bronze;Cities: Skylines;Strategy;False
+2021;Bronze;The Forest;Action;True
+2021;Bronze;The Forest;Adventure;True
+2021;Bronze;The Forest;Indie;True
+2021;Bronze;The Forest;Simulation;True
+2021;Bronze;Call of Duty®: Black Ops III;Action;False
+2021;Bronze;Call of Duty®: Black Ops III;Adventure;False
+2021;Bronze;RimWorld;Indie;True
+2021;Bronze;RimWorld;Simulation;True
+2021;Bronze;RimWorld;Strategy;True
+2021;Bronze;NieR Replicant™ ver.1.22474487139...;Action;False
+2021;Bronze;NieR Replicant™ ver.1.22474487139...;Adventure;False
+2021;Bronze;NieR Replicant™ ver.1.22474487139...;RPG;False
+2021;Bronze;Battlefield™ V;Action;False
+2021;Bronze;Hearts of Iron IV;Simulation;False
+2021;Bronze;Hearts of Iron IV;Strategy;False
+2021;Bronze;EA SPORTS™ FIFA 21;Simulation;False
+2021;Bronze;EA SPORTS™ FIFA 21;Sports;False
+2021;Bronze;Dyson Sphere Program;Indie;True
+2021;Bronze;Dyson Sphere Program;Simulation;True
+2021;Bronze;Dyson Sphere Program;Strategy;True
+2021;Bronze;Dyson Sphere Program;Early Access;True
+2021;Bronze;BIOMUTANT;Action;False
+2021;Bronze;BIOMUTANT;RPG;False
+2021;Bronze;鬼谷八荒 Tale of Immortal;Action;True
+2021;Bronze;鬼谷八荒 Tale of Immortal;Adventure;True
+2021;Bronze;鬼谷八荒 Tale of Immortal;Indie;True
+2021;Bronze;鬼谷八荒 Tale of Immortal;RPG;True
+2021;Bronze;鬼谷八荒 Tale of Immortal;Simulation;True
+2021;Bronze;Farming Simulator 22;Simulation;False
+2021;Bronze;No Man's Sky;Action;False
+2021;Bronze;No Man's Sky;Adventure;False
+2021;Bronze;Arma 3;Action;False
+2021;Bronze;Arma 3;Simulation;False
+2021;Bronze;Arma 3;Strategy;False
+2021;Bronze;Days Gone;Action;False
+2021;Bronze;Days Gone;Adventure;False
+2021;Bronze;NBA 2K22;Simulation;False
+2021;Bronze;NBA 2K22;Sports;False
+2021;Bronze;F1® 2021;Racing;False
+2021;Bronze;F1® 2021;Simulation;False
+2021;Bronze;F1® 2021;Sports;False
+2021;Bronze;Raft;Adventure;True
+2021;Bronze;Raft;Indie;True
+2021;Bronze;Raft;Simulation;True
+2021;Bronze;Wallpaper Engine;Casual;True
+2021;Bronze;Wallpaper Engine;Indie;True
+2021;Bronze;The Binding of Isaac: Rebirth;Action;False
+2021;Bronze;Fallout 4;RPG;False
+2021;Bronze;Terraria;Action;True
+2021;Bronze;Terraria;Adventure;True
+2021;Bronze;Terraria;Indie;True
+2021;Bronze;Terraria;RPG;True
+2021;Bronze;Half-Life: Alyx;Action;False
+2021;Bronze;Half-Life: Alyx;Adventure;False
+2021;Bronze;Satisfactory;Adventure;True
+2021;Bronze;Satisfactory;Indie;True
+2021;Bronze;Satisfactory;Simulation;True
+2021;Bronze;Satisfactory;Strategy;True
+2021;Bronze;Satisfactory;Early Access;True
+2021;Bronze;Baldur's Gate 3;Adventure;False
+2021;Bronze;Baldur's Gate 3;RPG;False
+2021;Bronze;Baldur's Gate 3;Strategy;False
+2021;Bronze;Nioh 2 – The Complete Edition;Action;False
+2021;Bronze;Nioh 2 – The Complete Edition;RPG;False
+2021;Bronze;theHunter: Call of the Wild™;Adventure;False
+2021;Bronze;theHunter: Call of the Wild™;Simulation;False
+2021;Bronze;theHunter: Call of the Wild™;Sports;False
+2022;Platinum;ELDEN RING;Action;False
+2022;Platinum;ELDEN RING;RPG;False
+2022;Platinum;Call of Duty®;Action;False
+2022;Platinum;MONSTER HUNTER RISE;Action;False
+2022;Platinum;Dying Light 2 Stay Human: Reloaded Edition;Action;False
+2022;Platinum;Dying Light 2 Stay Human: Reloaded Edition;Adventure;False
+2022;Platinum;Dying Light 2 Stay Human: Reloaded Edition;RPG;False
+2022;Platinum;Destiny 2;Action;False
+2022;Platinum;Destiny 2;Adventure;False
+2022;Platinum;Destiny 2;Free to Play;False
+2022;Platinum;Counter-Strike 2;Action;False
+2022;Platinum;Counter-Strike 2;Free to Play;False
+2022;Platinum;Lost Ark;Action;False
+2022;Platinum;Lost Ark;Adventure;False
+2022;Platinum;Lost Ark;Massively Multiplayer;False
+2022;Platinum;Lost Ark;RPG;False
+2022;Platinum;Lost Ark;Free to Play;False
+2022;Platinum;Dota 2;Action;False
+2022;Platinum;Dota 2;Strategy;False
+2022;Platinum;Dota 2;Free to Play;False
+2022;Platinum;PUBG: BATTLEGROUNDS;Action;False
+2022;Platinum;PUBG: BATTLEGROUNDS;Adventure;False
+2022;Platinum;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2022;Platinum;PUBG: BATTLEGROUNDS;Free to Play;False
+2022;Platinum;Yu-Gi-Oh! Master Duel;Simulation;False
+2022;Platinum;Yu-Gi-Oh! Master Duel;Strategy;False
+2022;Platinum;Yu-Gi-Oh! Master Duel;Free to Play;False
+2022;Platinum;NARAKA: BLADEPOINT;Action;False
+2022;Platinum;NARAKA: BLADEPOINT;Adventure;False
+2022;Platinum;NARAKA: BLADEPOINT;Massively Multiplayer;False
+2022;Platinum;Apex Legends™;Action;False
+2022;Platinum;Apex Legends™;Adventure;False
+2022;Platinum;Apex Legends™;Free to Play;False
+2022;Gold;Total War: WARHAMMER III;Action;False
+2022;Gold;Total War: WARHAMMER III;Strategy;False
+2022;Gold;Tom Clancy's Rainbow Six® Siege;Action;False
+2022;Gold;Grand Theft Auto V;Action;False
+2022;Gold;Grand Theft Auto V;Adventure;False
+2022;Gold;Ready or Not;Action;True
+2022;Gold;Ready or Not;Adventure;True
+2022;Gold;Ready or Not;Indie;True
+2022;Gold;Forza Horizon 5;Action;False
+2022;Gold;Forza Horizon 5;Adventure;False
+2022;Gold;Forza Horizon 5;Racing;False
+2022;Gold;Forza Horizon 5;Simulation;False
+2022;Gold;Forza Horizon 5;Sports;False
+2022;Gold;Warframe;Action;False
+2022;Gold;Warframe;RPG;False
+2022;Gold;Warframe;Free to Play;False
+2022;Gold;God of War;Action;False
+2022;Gold;God of War;Adventure;False
+2022;Gold;God of War;RPG;False
+2022;Gold;War Thunder;Action;False
+2022;Gold;War Thunder;Massively Multiplayer;False
+2022;Gold;War Thunder;Simulation;False
+2022;Gold;War Thunder;Free to Play;False
+2022;Gold;Red Dead Redemption 2;Action;False
+2022;Gold;Red Dead Redemption 2;Adventure;False
+2022;Gold;EA SPORTS™ FIFA 23;Simulation;False
+2022;Gold;EA SPORTS™ FIFA 23;Sports;False
+2022;Gold;Cyberpunk 2077;RPG;False
+2022;Gold;Dead by Daylight;Action;False
+2022;Silver;Team Fortress 2;Action;False
+2022;Silver;Team Fortress 2;Free to Play;False
+2022;Silver;NBA 2K22;Simulation;False
+2022;Silver;NBA 2K22;Sports;False
+2022;Silver;Sea of Thieves 2023 Edition;Action;False
+2022;Silver;Sea of Thieves 2023 Edition;Adventure;False
+2022;Silver;Black Desert;Action;False
+2022;Silver;Black Desert;Adventure;False
+2022;Silver;Black Desert;Massively Multiplayer;False
+2022;Silver;Black Desert;RPG;False
+2022;Silver;Black Desert;Simulation;False
+2022;Silver;Black Desert;Strategy;False
+2022;Silver;Stray;Adventure;True
+2022;Silver;Stray;Indie;True
+2022;Silver;The Forest;Action;True
+2022;Silver;The Forest;Adventure;True
+2022;Silver;The Forest;Indie;True
+2022;Silver;The Forest;Simulation;True
+2022;Silver;Cult of the Lamb;Action;True
+2022;Silver;Cult of the Lamb;Adventure;True
+2022;Silver;Cult of the Lamb;Indie;True
+2022;Silver;Cult of the Lamb;Strategy;True
+2022;Silver;V Rising;Action;False
+2022;Silver;V Rising;Adventure;False
+2022;Silver;V Rising;Massively Multiplayer;False
+2022;Silver;V Rising;Early Access;False
+2022;Silver;Raft;Adventure;True
+2022;Silver;Raft;Indie;True
+2022;Silver;Raft;Simulation;True
+2022;Silver;Rust;Action;True
+2022;Silver;Rust;Adventure;True
+2022;Silver;Rust;Indie;True
+2022;Silver;Rust;Massively Multiplayer;True
+2022;Silver;Rust;RPG;True
+2022;Silver;Project Zomboid;Indie;True
+2022;Silver;Project Zomboid;RPG;True
+2022;Silver;Project Zomboid;Simulation;True
+2022;Silver;Project Zomboid;Early Access;True
+2022;Silver;Hunt: Showdown;Action;False
+2022;Silver;Sid Meier’s Civilization® VI;Strategy;False
+2022;Silver;It Takes Two;Action;False
+2022;Silver;It Takes Two;Adventure;False
+2022;Silver;The Sims™ 4;Adventure;False
+2022;Silver;The Sims™ 4;Casual;False
+2022;Silver;The Sims™ 4;Simulation;False
+2022;Silver;The Sims™ 4;Free to Play;False
+2022;Silver;RimWorld;Indie;True
+2022;Silver;RimWorld;Simulation;True
+2022;Silver;RimWorld;Strategy;True
+2022;Silver;FIFA 22;Simulation;False
+2022;Silver;FIFA 22;Sports;False
+2022;Silver;LEGO® Star Wars™: The Skywalker Saga;Action;False
+2022;Silver;LEGO® Star Wars™: The Skywalker Saga;Adventure;False
+2022;Silver;Stellaris;Simulation;False
+2022;Silver;Stellaris;Strategy;False
+2022;Silver;Phasmophobia;Action;True
+2022;Silver;Phasmophobia;Indie;True
+2022;Silver;Phasmophobia;Early Access;True
+2022;Silver;Warhammer 40,000: Darktide;Action;True
+2022;Silver;Warhammer 40,000: Darktide;Adventure;True
+2022;Silver;Warhammer 40,000: Darktide;Indie;True
+2022;Silver;The Elder Scrolls® Online;Action;False
+2022;Silver;The Elder Scrolls® Online;Adventure;False
+2022;Silver;The Elder Scrolls® Online;Massively Multiplayer;False
+2022;Silver;The Elder Scrolls® Online;RPG;False
+2022;Silver;Marvel’s Spider-Man Remastered;Action;False
+2022;Silver;Marvel’s Spider-Man Remastered;Adventure;False
+2022;Silver;Marvel’s Spider-Man Remastered;Casual;False
+2022;Silver;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2022;Silver;FINAL FANTASY XIV Online;RPG;False
+2022;Silver;Cities: Skylines;Simulation;False
+2022;Silver;Cities: Skylines;Strategy;False
+2022;Bronze;Monster Hunter: World;Action;False
+2022;Bronze;Halo Infinite;Action;False
+2022;Bronze;Halo Infinite;Free to Play;False
+2022;Bronze;Age of Empires IV: Anniversary Edition;Strategy;False
+2022;Bronze;NBA 2K23;Simulation;False
+2022;Bronze;NBA 2K23;Sports;False
+2022;Bronze;UNDECEMBER;Action;False
+2022;Bronze;UNDECEMBER;Free to Play;False
+2022;Bronze;UNDECEMBER;RPG;False
+2022;Bronze;Borderlands 3;Action;False
+2022;Bronze;Borderlands 3;RPG;False
+2022;Bronze;Crusader Kings III;RPG;False
+2022;Bronze;Crusader Kings III;Simulation;False
+2022;Bronze;Crusader Kings III;Strategy;False
+2022;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Action;False
+2022;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Adventure;False
+2022;Bronze;World of Warships;Action;False
+2022;Bronze;World of Warships;Massively Multiplayer;False
+2022;Bronze;World of Warships;Simulation;False
+2022;Bronze;World of Warships;Free to Play;False
+2022;Bronze;F1® 22;Racing;False
+2022;Bronze;F1® 22;Sports;False
+2022;Bronze;Risk of Rain 2;Action;True
+2022;Bronze;Risk of Rain 2;Indie;True
+2022;Bronze;Battlefield™ 2042;Action;False
+2022;Bronze;Battlefield™ 2042;Adventure;False
+2022;Bronze;Battlefield™ 2042;Casual;False
+2022;Bronze;SMITE®;Action;False
+2022;Bronze;SMITE®;Adventure;False
+2022;Bronze;SMITE®;Casual;False
+2022;Bronze;SMITE®;Massively Multiplayer;False
+2022;Bronze;SMITE®;RPG;False
+2022;Bronze;SMITE®;Strategy;False
+2022;Bronze;SMITE®;Free to Play;False
+2022;Bronze;Victoria 3;Simulation;False
+2022;Bronze;Victoria 3;Strategy;False
+2022;Bronze;theHunter: Call of the Wild™;Adventure;False
+2022;Bronze;theHunter: Call of the Wild™;Simulation;False
+2022;Bronze;theHunter: Call of the Wild™;Sports;False
+2022;Bronze;Call of Duty®: Black Ops III;Action;False
+2022;Bronze;Call of Duty®: Black Ops III;Adventure;False
+2022;Bronze;Fallout 76;RPG;False
+2022;Bronze;Planet Zoo;Casual;False
+2022;Bronze;Planet Zoo;Simulation;False
+2022;Bronze;Planet Zoo;Strategy;False
+2022;Bronze;Mount & Blade II: Bannerlord;Action;True
+2022;Bronze;Mount & Blade II: Bannerlord;Indie;True
+2022;Bronze;Mount & Blade II: Bannerlord;RPG;True
+2022;Bronze;Mount & Blade II: Bannerlord;Simulation;True
+2022;Bronze;Mount & Blade II: Bannerlord;Strategy;True
+2022;Bronze;STAR WARS™: The Old Republic™;Massively Multiplayer;False
+2022;Bronze;STAR WARS™: The Old Republic™;RPG;False
+2022;Bronze;STAR WARS™: The Old Republic™;Free to Play;False
+2022;Bronze;No Man's Sky;Action;False
+2022;Bronze;No Man's Sky;Adventure;False
+2022;Bronze;The Witcher® 3: Wild Hunt;RPG;False
+2022;Bronze;Battlefield™ V;Action;False
+2022;Bronze;Path of Exile;Action;True
+2022;Bronze;Path of Exile;Adventure;True
+2022;Bronze;Path of Exile;Indie;True
+2022;Bronze;Path of Exile;Massively Multiplayer;True
+2022;Bronze;Path of Exile;RPG;True
+2022;Bronze;Path of Exile;Free to Play;True
+2022;Bronze;Persona 5 Royal;RPG;False
+2022;Bronze;Squad;Action;True
+2022;Bronze;Squad;Indie;True
+2022;Bronze;Squad;Massively Multiplayer;True
+2022;Bronze;Squad;Strategy;True
+2022;Bronze;Tiny Tina's Wonderlands;Action;False
+2022;Bronze;Tiny Tina's Wonderlands;Adventure;False
+2022;Bronze;Tiny Tina's Wonderlands;RPG;False
+2022;Bronze;Horizon Zero Dawn™ Complete Edition;Action;False
+2022;Bronze;Horizon Zero Dawn™ Complete Edition;Adventure;False
+2022;Bronze;Horizon Zero Dawn™ Complete Edition;RPG;False
+2022;Bronze;Valheim;Action;True
+2022;Bronze;Valheim;Adventure;True
+2022;Bronze;Valheim;Indie;True
+2022;Bronze;Valheim;RPG;True
+2022;Bronze;Valheim;Early Access;True
+2022;Bronze;Microsoft Flight Simulator 40th Anniversary Edition;Simulation;False
+2022;Bronze;Arma 3;Action;False
+2022;Bronze;Arma 3;Simulation;False
+2022;Bronze;Arma 3;Strategy;False
+2022;Bronze;FINAL FANTASY VII REMAKE INTERGRADE;Action;False
+2022;Bronze;FINAL FANTASY VII REMAKE INTERGRADE;Adventure;False
+2022;Bronze;FINAL FANTASY VII REMAKE INTERGRADE;RPG;False
+2022;Bronze;Hell Let Loose;Action;True
+2022;Bronze;Hell Let Loose;Indie;True
+2022;Bronze;Hell Let Loose;Massively Multiplayer;True
+2022;Bronze;Hell Let Loose;Simulation;True
+2022;Bronze;Hell Let Loose;Strategy;True
+2022;Bronze;Satisfactory;Adventure;True
+2022;Bronze;Satisfactory;Indie;True
+2022;Bronze;Satisfactory;Simulation;True
+2022;Bronze;Satisfactory;Strategy;True
+2022;Bronze;Satisfactory;Early Access;True
+2022;Bronze;Euro Truck Simulator 2;Indie;True
+2022;Bronze;Euro Truck Simulator 2;Simulation;True
+2022;Bronze;Stardew Valley;Indie;True
+2022;Bronze;Stardew Valley;RPG;True
+2022;Bronze;Stardew Valley;Simulation;True
+2022;Bronze;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2022;Bronze;New World;Action;False
+2022;Bronze;New World;Adventure;False
+2022;Bronze;New World;Massively Multiplayer;False
+2022;Bronze;New World;RPG;False
+2022;Bronze;Hearts of Iron IV;Simulation;False
+2022;Bronze;Hearts of Iron IV;Strategy;False
+2022;Bronze;DayZ;Action;False
+2022;Bronze;DayZ;Adventure;False
+2022;Bronze;DayZ;Massively Multiplayer;False
+2022;Bronze;American Truck Simulator;Indie;True
+2022;Bronze;American Truck Simulator;Simulation;True
+2022;Bronze;Deep Rock Galactic;Action;False
+2022;Bronze;Terraria;Action;True
+2022;Bronze;Terraria;Adventure;True
+2022;Bronze;Terraria;Indie;True
+2022;Bronze;Terraria;RPG;True
+2022;Bronze;Forza Horizon 4;Racing;False
+2022;Bronze;Wallpaper Engine;Casual;True
+2022;Bronze;Wallpaper Engine;Indie;True
+2022;Bronze;Farming Simulator 22;Simulation;False
+2022;Bronze;ARK: Survival Evolved;Action;True
+2022;Bronze;ARK: Survival Evolved;Adventure;True
+2022;Bronze;ARK: Survival Evolved;Indie;True
+2022;Bronze;ARK: Survival Evolved;Massively Multiplayer;True
+2022;Bronze;ARK: Survival Evolved;RPG;True
+2022;Bronze;Grounded;Action;False
+2022;Bronze;Grounded;Adventure;False
+2022;Bronze;Dread Hunger;Action;True
+2022;Bronze;Dread Hunger;Adventure;True
+2022;Bronze;Dread Hunger;Indie;True
+2023;Platinum;Call of Duty®;Action;False
+2023;Platinum;Starfield;RPG;False
+2023;Platinum;PUBG: BATTLEGROUNDS;Action;False
+2023;Platinum;PUBG: BATTLEGROUNDS;Adventure;False
+2023;Platinum;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2023;Platinum;PUBG: BATTLEGROUNDS;Free to Play;False
+2023;Platinum;Baldur's Gate 3;Adventure;False
+2023;Platinum;Baldur's Gate 3;RPG;False
+2023;Platinum;Baldur's Gate 3;Strategy;False
+2023;Platinum;Destiny 2;Action;False
+2023;Platinum;Destiny 2;Adventure;False
+2023;Platinum;Destiny 2;Free to Play;False
+2023;Platinum;Sons Of The Forest;Action;True
+2023;Platinum;Sons Of The Forest;Adventure;True
+2023;Platinum;Sons Of The Forest;Indie;True
+2023;Platinum;Sons Of The Forest;Simulation;True
+2023;Platinum;Apex Legends™;Action;False
+2023;Platinum;Apex Legends™;Adventure;False
+2023;Platinum;Apex Legends™;Free to Play;False
+2023;Platinum;Dota 2;Action;False
+2023;Platinum;Dota 2;Strategy;False
+2023;Platinum;Dota 2;Free to Play;False
+2023;Platinum;Hogwarts Legacy;Action;False
+2023;Platinum;Hogwarts Legacy;Adventure;False
+2023;Platinum;Hogwarts Legacy;RPG;False
+2023;Platinum;Lost Ark;Action;False
+2023;Platinum;Lost Ark;Adventure;False
+2023;Platinum;Lost Ark;Massively Multiplayer;False
+2023;Platinum;Lost Ark;RPG;False
+2023;Platinum;Lost Ark;Free to Play;False
+2023;Platinum;Cyberpunk 2077;RPG;False
+2023;Platinum;Counter-Strike 2;Action;False
+2023;Platinum;Counter-Strike 2;Free to Play;False
+2023;Gold;War Thunder;Action;False
+2023;Gold;War Thunder;Massively Multiplayer;False
+2023;Gold;War Thunder;Simulation;False
+2023;Gold;War Thunder;Free to Play;False
+2023;Gold;Dead by Daylight;Action;False
+2023;Gold;Tom Clancy's Rainbow Six® Siege;Action;False
+2023;Gold;EA SPORTS FC™ 24;Simulation;False
+2023;Gold;EA SPORTS FC™ 24;Sports;False
+2023;Gold;Resident Evil 4;Action;False
+2023;Gold;Resident Evil 4;Adventure;False
+2023;Gold;ELDEN RING;Action;False
+2023;Gold;ELDEN RING;RPG;False
+2023;Gold;Red Dead Redemption 2;Action;False
+2023;Gold;Red Dead Redemption 2;Adventure;False
+2023;Gold;EA SPORTS™ FIFA 23;Simulation;False
+2023;Gold;EA SPORTS™ FIFA 23;Sports;False
+2023;Gold;Warframe;Action;False
+2023;Gold;Warframe;RPG;False
+2023;Gold;Warframe;Free to Play;False
+2023;Gold;NARAKA: BLADEPOINT;Action;False
+2023;Gold;NARAKA: BLADEPOINT;Adventure;False
+2023;Gold;NARAKA: BLADEPOINT;Massively Multiplayer;False
+2023;Gold;ARMORED CORE™ VI FIRES OF RUBICON™;Action;False
+2023;Gold;Grand Theft Auto V;Action;False
+2023;Gold;Grand Theft Auto V;Adventure;False
+2023;Silver;New World;Action;False
+2023;Silver;New World;Adventure;False
+2023;Silver;New World;Massively Multiplayer;False
+2023;Silver;New World;RPG;False
+2023;Silver;STAR WARS Jedi: Survivor™;Action;False
+2023;Silver;STAR WARS Jedi: Survivor™;Adventure;False
+2023;Silver;Dead Space;Action;False
+2023;Silver;Dead Space;Adventure;False
+2023;Silver;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2023;Silver;FINAL FANTASY XIV Online;RPG;False
+2023;Silver;REMNANT II®;Action;False
+2023;Silver;REMNANT II®;Adventure;False
+2023;Silver;REMNANT II®;RPG;False
+2023;Silver;The Sims™ 4;Adventure;False
+2023;Silver;The Sims™ 4;Casual;False
+2023;Silver;The Sims™ 4;Simulation;False
+2023;Silver;The Sims™ 4;Free to Play;False
+2023;Silver;Team Fortress 2;Action;False
+2023;Silver;Team Fortress 2;Free to Play;False
+2023;Silver;Lethal Company;Action;True
+2023;Silver;Lethal Company;Adventure;True
+2023;Silver;Lethal Company;Indie;True
+2023;Silver;Lethal Company;Early Access;True
+2023;Silver;BattleBit Remastered;Action;False
+2023;Silver;BattleBit Remastered;Massively Multiplayer;False
+2023;Silver;BattleBit Remastered;Early Access;False
+2023;Silver;Party Animals;Action;True
+2023;Silver;Party Animals;Casual;True
+2023;Silver;Party Animals;Indie;True
+2023;Silver;Project Zomboid;Indie;True
+2023;Silver;Project Zomboid;RPG;True
+2023;Silver;Project Zomboid;Simulation;True
+2023;Silver;Project Zomboid;Early Access;True
+2023;Silver;Street Fighter™ 6;Action;False
+2023;Silver;Street Fighter™ 6;Adventure;False
+2023;Silver;NBA 2K23;Simulation;False
+2023;Silver;NBA 2K23;Sports;False
+2023;Silver;Black Desert;Action;False
+2023;Silver;Black Desert;Adventure;False
+2023;Silver;Black Desert;Massively Multiplayer;False
+2023;Silver;Black Desert;RPG;False
+2023;Silver;Black Desert;Simulation;False
+2023;Silver;Black Desert;Strategy;False
+2023;Silver;Rust;Action;True
+2023;Silver;Rust;Adventure;True
+2023;Silver;Rust;Indie;True
+2023;Silver;Rust;Massively Multiplayer;True
+2023;Silver;Rust;RPG;True
+2023;Silver;Sea of Thieves 2023 Edition;Action;False
+2023;Silver;Sea of Thieves 2023 Edition;Adventure;False
+2023;Silver;Sid Meier’s Civilization® VI;Strategy;False
+2023;Silver;Total War: WARHAMMER III;Action;False
+2023;Silver;Total War: WARHAMMER III;Strategy;False
+2023;Silver;The Elder Scrolls® Online;Action;False
+2023;Silver;The Elder Scrolls® Online;Adventure;False
+2023;Silver;The Elder Scrolls® Online;Massively Multiplayer;False
+2023;Silver;The Elder Scrolls® Online;RPG;False
+2023;Silver;Forza Horizon 5;Action;False
+2023;Silver;Forza Horizon 5;Adventure;False
+2023;Silver;Forza Horizon 5;Racing;False
+2023;Silver;Forza Horizon 5;Simulation;False
+2023;Silver;Forza Horizon 5;Sports;False
+2023;Silver;Cities: Skylines II;Simulation;False
+2023;Silver;Stellaris;Simulation;False
+2023;Silver;Stellaris;Strategy;False
+2023;Silver;ARK: Survival Ascended;Action;True
+2023;Silver;ARK: Survival Ascended;Adventure;True
+2023;Silver;ARK: Survival Ascended;Indie;True
+2023;Silver;ARK: Survival Ascended;Massively Multiplayer;True
+2023;Silver;ARK: Survival Ascended;RPG;True
+2023;Silver;ARK: Survival Ascended;Early Access;True
+2023;Silver;Yu-Gi-Oh! Master Duel;Simulation;False
+2023;Silver;Yu-Gi-Oh! Master Duel;Strategy;False
+2023;Silver;Yu-Gi-Oh! Master Duel;Free to Play;False
+2023;Silver;Euro Truck Simulator 2;Indie;True
+2023;Silver;Euro Truck Simulator 2;Simulation;True
+2023;Bronze;Age of Wonders 4;Strategy;False
+2023;Bronze;Farming Simulator 22;Simulation;False
+2023;Bronze;Anno 1800;Simulation;False
+2023;Bronze;Anno 1800;Strategy;False
+2023;Bronze;Raft;Adventure;True
+2023;Bronze;Raft;Indie;True
+2023;Bronze;Raft;Simulation;True
+2023;Bronze;DREDGE;Adventure;False
+2023;Bronze;DREDGE;RPG;False
+2023;Bronze;MONSTER HUNTER RISE;Action;False
+2023;Bronze;Marvel’s Spider-Man Remastered;Action;False
+2023;Bronze;Marvel’s Spider-Man Remastered;Adventure;False
+2023;Bronze;Marvel’s Spider-Man Remastered;Casual;False
+2023;Bronze;The Last of Us™ Part I;Action;False
+2023;Bronze;The Last of Us™ Part I;Adventure;False
+2023;Bronze;RimWorld;Indie;True
+2023;Bronze;RimWorld;Simulation;True
+2023;Bronze;RimWorld;Strategy;True
+2023;Bronze;Hearts of Iron IV;Simulation;False
+2023;Bronze;Hearts of Iron IV;Strategy;False
+2023;Bronze;Hunt: Showdown;Action;False
+2023;Bronze;Microsoft Flight Simulator 40th Anniversary Edition;Simulation;False
+2023;Bronze;F1® 23;Racing;False
+2023;Bronze;F1® 23;Sports;False
+2023;Bronze;Warhammer 40,000: Darktide;Action;True
+2023;Bronze;Warhammer 40,000: Darktide;Adventure;True
+2023;Bronze;Warhammer 40,000: Darktide;Indie;True
+2023;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Action;False
+2023;Bronze;Sekiro™: Shadows Die Twice - GOTY Edition;Adventure;False
+2023;Bronze;Dying Light 2 Stay Human: Reloaded Edition;Action;False
+2023;Bronze;Dying Light 2 Stay Human: Reloaded Edition;Adventure;False
+2023;Bronze;Dying Light 2 Stay Human: Reloaded Edition;RPG;False
+2023;Bronze;Stardew Valley;Indie;True
+2023;Bronze;Stardew Valley;RPG;True
+2023;Bronze;Stardew Valley;Simulation;True
+2023;Bronze;Wallpaper Engine;Casual;True
+2023;Bronze;Wallpaper Engine;Indie;True
+2023;Bronze;Call of Duty®: Black Ops III;Action;False
+2023;Bronze;Call of Duty®: Black Ops III;Adventure;False
+2023;Bronze;Fallout 76;RPG;False
+2023;Bronze;Monster Hunter: World;Action;False
+2023;Bronze;Terraria;Action;True
+2023;Bronze;Terraria;Adventure;True
+2023;Bronze;Terraria;Indie;True
+2023;Bronze;Terraria;RPG;True
+2023;Bronze;Mortal Kombat 1;Action;False
+2023;Bronze;PAYDAY 3;Action;False
+2023;Bronze;PAYDAY 3;Adventure;False
+2023;Bronze;PAYDAY 3;RPG;False
+2023;Bronze;Atomic Heart;Action;False
+2023;Bronze;Atomic Heart;Adventure;False
+2023;Bronze;Atomic Heart;RPG;False
+2023;Bronze;Crusader Kings III;RPG;False
+2023;Bronze;Crusader Kings III;Simulation;False
+2023;Bronze;Crusader Kings III;Strategy;False
+2023;Bronze;BeamNG.drive;Racing;False
+2023;Bronze;BeamNG.drive;Simulation;False
+2023;Bronze;BeamNG.drive;Early Access;False
+2023;Bronze;DayZ;Action;False
+2023;Bronze;DayZ;Adventure;False
+2023;Bronze;DayZ;Massively Multiplayer;False
+2023;Bronze;World of Warships;Action;False
+2023;Bronze;World of Warships;Massively Multiplayer;False
+2023;Bronze;World of Warships;Simulation;False
+2023;Bronze;World of Warships;Free to Play;False
+2023;Bronze;Persona 5 Royal;RPG;False
+2023;Bronze;Lies of P;Action;False
+2023;Bronze;Lies of P;Adventure;False
+2023;Bronze;Lies of P;RPG;False
+2023;Bronze;DAVE THE DIVER;Adventure;True
+2023;Bronze;DAVE THE DIVER;Casual;True
+2023;Bronze;DAVE THE DIVER;Indie;True
+2023;Bronze;DAVE THE DIVER;RPG;True
+2023;Bronze;DAVE THE DIVER;Simulation;True
+2023;Bronze;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2023;Bronze;Battlefield™ 2042;Action;False
+2023;Bronze;Battlefield™ 2042;Adventure;False
+2023;Bronze;Battlefield™ 2042;Casual;False
+2023;Bronze;Wo Long: Fallen Dynasty;Action;False
+2023;Bronze;Wo Long: Fallen Dynasty;Adventure;False
+2023;Bronze;Wo Long: Fallen Dynasty;RPG;False
+2023;Bronze;The Outlast Trials;Action;True
+2023;Bronze;The Outlast Trials;Adventure;True
+2023;Bronze;The Outlast Trials;Indie;True
+2023;Bronze;The Outlast Trials;Early Access;True
+2023;Bronze;Deep Rock Galactic;Action;False
+2023;Bronze;Summoners War: Chronicles;Action;False
+2023;Bronze;Summoners War: Chronicles;Adventure;False
+2023;Bronze;Summoners War: Chronicles;Massively Multiplayer;False
+2023;Bronze;Summoners War: Chronicles;RPG;False
+2023;Bronze;Summoners War: Chronicles;Strategy;False
+2023;Bronze;Summoners War: Chronicles;Free to Play;False
+2023;Bronze;Phasmophobia;Action;True
+2023;Bronze;Phasmophobia;Indie;True
+2023;Bronze;Phasmophobia;Early Access;True
+2023;Bronze;American Truck Simulator;Indie;True
+2023;Bronze;American Truck Simulator;Simulation;True
+2023;Bronze;ARK: Survival Evolved;Action;True
+2023;Bronze;ARK: Survival Evolved;Adventure;True
+2023;Bronze;ARK: Survival Evolved;Indie;True
+2023;Bronze;ARK: Survival Evolved;Massively Multiplayer;True
+2023;Bronze;ARK: Survival Evolved;RPG;True
+2023;Bronze;Ready or Not;Action;True
+2023;Bronze;Ready or Not;Adventure;True
+2023;Bronze;Ready or Not;Indie;True
+2023;Bronze;Cities: Skylines;Simulation;False
+2023;Bronze;Cities: Skylines;Strategy;False
+2023;Bronze;Marvel’s Spider-Man: Miles Morales;Action;False
+2023;Bronze;Marvel’s Spider-Man: Miles Morales;Adventure;False
+2023;Bronze;It Takes Two;Action;False
+2023;Bronze;It Takes Two;Adventure;False
+2023;Bronze;Grounded;Action;False
+2023;Bronze;Grounded;Adventure;False
+2023;Bronze;Age of Empires IV: Anniversary Edition;Strategy;False
+2023;Bronze;Borderlands 3;Action;False
+2023;Bronze;Borderlands 3;RPG;False
+2023;Bronze;Path of Exile;Action;True
+2023;Bronze;Path of Exile;Adventure;True
+2023;Bronze;Path of Exile;Indie;True
+2023;Bronze;Path of Exile;Massively Multiplayer;True
+2023;Bronze;Path of Exile;RPG;True
+2023;Bronze;Path of Exile;Free to Play;True
+2023;Bronze;No Man's Sky;Action;False
+2023;Bronze;No Man's Sky;Adventure;False

@@ -1,0 +1,1062 @@
+year;simultaneous_players;game;genre;is_indie
+2020;200000;Dota 2;Action;False
+2020;200000;Dota 2;Strategy;False
+2020;200000;Dota 2;Free to Play;False
+2020;200000;Among Us;Casual;False
+2020;200000;PUBG: BATTLEGROUNDS;Action;False
+2020;200000;PUBG: BATTLEGROUNDS;Adventure;False
+2020;200000;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2020;200000;PUBG: BATTLEGROUNDS;Free to Play;False
+2020;200000;Cyberpunk 2077;RPG;False
+2020;200000;Monster Hunter: World;Action;False
+2020;200000;Terraria;Action;True
+2020;200000;Terraria;Adventure;True
+2020;200000;Terraria;Indie;True
+2020;200000;Terraria;RPG;True
+2020;200000;Mount & Blade II: Bannerlord;Action;True
+2020;200000;Mount & Blade II: Bannerlord;Indie;True
+2020;200000;Mount & Blade II: Bannerlord;RPG;True
+2020;200000;Mount & Blade II: Bannerlord;Simulation;True
+2020;200000;Mount & Blade II: Bannerlord;Strategy;True
+2020;200000;Life is Strange 2;Adventure;False
+2020;200000;Grand Theft Auto V;Action;False
+2020;200000;Grand Theft Auto V;Adventure;False
+2020;200000;Destiny 2;Action;False
+2020;200000;Destiny 2;Adventure;False
+2020;200000;Destiny 2;Free to Play;False
+2020;200000;Counter-Strike 2;Action;False
+2020;200000;Counter-Strike 2;Free to Play;False
+2020;100000;Wolcen: Lords of Mayhem;Action;True
+2020;100000;Wolcen: Lords of Mayhem;Adventure;True
+2020;100000;Wolcen: Lords of Mayhem;Indie;True
+2020;100000;Wolcen: Lords of Mayhem;RPG;True
+2020;100000;Team Fortress 2;Action;False
+2020;100000;Team Fortress 2;Free to Play;False
+2020;100000;Warframe;Action;False
+2020;100000;Warframe;RPG;False
+2020;100000;Warframe;Free to Play;False
+2020;100000;Apex Legends™;Action;False
+2020;100000;Apex Legends™;Adventure;False
+2020;100000;Apex Legends™;Free to Play;False
+2020;100000;Path of Exile;Action;True
+2020;100000;Path of Exile;Adventure;True
+2020;100000;Path of Exile;Indie;True
+2020;100000;Path of Exile;Massively Multiplayer;True
+2020;100000;Path of Exile;RPG;True
+2020;100000;Path of Exile;Free to Play;True
+2020;100000;Phasmophobia;Action;True
+2020;100000;Phasmophobia;Indie;True
+2020;100000;Phasmophobia;Early Access;True
+2020;100000;Rust;Action;True
+2020;100000;Rust;Adventure;True
+2020;100000;Rust;Indie;True
+2020;100000;Rust;Massively Multiplayer;True
+2020;100000;Rust;RPG;True
+2020;100000;DOOM Eternal;Action;False
+2020;100000;Rocket League®;Action;True
+2020;100000;Rocket League®;Indie;True
+2020;100000;Rocket League®;Racing;True
+2020;100000;Rocket League®;Sports;True
+2020;100000;Human Fall Flat;Adventure;True
+2020;100000;Human Fall Flat;Casual;True
+2020;100000;Human Fall Flat;Indie;True
+2020;100000;Human Fall Flat;Simulation;True
+2020;100000;The Witcher® 3: Wild Hunt;RPG;False
+2020;100000;Fall Guys;Action;True
+2020;100000;Fall Guys;Casual;True
+2020;100000;Fall Guys;Indie;True
+2020;100000;Fall Guys;Massively Multiplayer;True
+2020;100000;Fall Guys;Sports;True
+2020;100000;Tom Clancy's Rainbow Six® Siege;Action;False
+2020;100000;ARK: Survival Evolved;Action;True
+2020;100000;ARK: Survival Evolved;Adventure;True
+2020;100000;ARK: Survival Evolved;Indie;True
+2020;100000;ARK: Survival Evolved;Massively Multiplayer;True
+2020;100000;ARK: Survival Evolved;RPG;True
+2020;50000;Sid Meier's Civilization® V;Strategy;False
+2020;50000;PAYDAY 2;Action;False
+2020;50000;PAYDAY 2;RPG;False
+2020;50000;Baldur's Gate 3;Adventure;False
+2020;50000;Baldur's Gate 3;RPG;False
+2020;50000;Baldur's Gate 3;Strategy;False
+2020;50000;Eternal Return;Indie;True
+2020;50000;Eternal Return;Strategy;True
+2020;50000;Eternal Return;Free to Play;True
+2020;50000;Halo: The Master Chief Collection;Action;False
+2020;50000;Sid Meier’s Civilization® VI;Strategy;False
+2020;50000;Tomb Raider;Action;False
+2020;50000;Tomb Raider;Adventure;False
+2020;50000;Resident Evil 3;Action;False
+2020;50000;Total War: WARHAMMER II;Action;False
+2020;50000;Total War: WARHAMMER II;Strategy;False
+2020;50000;Dead by Daylight;Action;False
+2020;50000;Borderlands 3;Action;False
+2020;50000;Borderlands 3;RPG;False
+2020;50000;Horizon Zero Dawn™ Complete Edition;Action;False
+2020;50000;Horizon Zero Dawn™ Complete Edition;Adventure;False
+2020;50000;Horizon Zero Dawn™ Complete Edition;RPG;False
+2020;50000;Left 4 Dead 2;Action;False
+2020;50000;Euro Truck Simulator 2;Indie;True
+2020;50000;Euro Truck Simulator 2;Simulation;True
+2020;50000;Red Dead Redemption 2;Action;False
+2020;50000;Red Dead Redemption 2;Adventure;False
+2020;50000;Total War: SHOGUN 2;Strategy;False
+2020;50000;Microsoft Flight Simulator 40th Anniversary Edition;Simulation;False
+2020;50000;War Thunder;Action;False
+2020;50000;War Thunder;Massively Multiplayer;False
+2020;50000;War Thunder;Simulation;False
+2020;50000;War Thunder;Free to Play;False
+2020;50000;Garry's Mod;Casual;True
+2020;50000;Garry's Mod;Indie;True
+2020;50000;Garry's Mod;Simulation;True
+2020;50000;Stellaris;Simulation;False
+2020;50000;Stellaris;Strategy;False
+2020;50000;Sea of Thieves 2023 Edition;Action;False
+2020;50000;Sea of Thieves 2023 Edition;Adventure;False
+2020;50000;Risk of Rain 2;Action;True
+2020;50000;Risk of Rain 2;Indie;True
+2020;50000;Crusader Kings III;RPG;False
+2020;50000;Crusader Kings III;Simulation;False
+2020;50000;Crusader Kings III;Strategy;False
+2020;30000;Ori and the Will of the Wisps;Action;False
+2020;30000;Half-Life: Alyx;Action;False
+2020;30000;Half-Life: Alyx;Adventure;False
+2020;30000;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2020;30000;Total War: THREE KINGDOMS;Action;False
+2020;30000;Total War: THREE KINGDOMS;Strategy;False
+2020;30000;Conan Exiles;Action;False
+2020;30000;Conan Exiles;Adventure;False
+2020;30000;Conan Exiles;Massively Multiplayer;False
+2020;30000;Conan Exiles;RPG;False
+2020;30000;Conan Exiles;Simulation;False
+2020;30000;Conan Exiles;Strategy;False
+2020;30000;XCOM®: Chimera Squad;Strategy;False
+2020;30000;No Man's Sky;Action;False
+2020;30000;No Man's Sky;Adventure;False
+2020;30000;Mafia: Definitive Edition;Action;False
+2020;30000;Mafia: Definitive Edition;Adventure;False
+2020;30000;Assassin's Creed® Odyssey;Action;False
+2020;30000;Assassin's Creed® Odyssey;Adventure;False
+2020;30000;Assassin's Creed® Odyssey;RPG;False
+2020;30000;Command & Conquer™ Remastered Collection;Strategy;False
+2020;30000;Cities: Skylines;Simulation;False
+2020;30000;Cities: Skylines;Strategy;False
+2020;30000;Marvel's Avengers - The Definitive Edition;Action;False
+2020;30000;Marvel's Avengers - The Definitive Edition;Adventure;False
+2020;30000;Marvel's Avengers - The Definitive Edition;RPG;False
+2020;30000;RimWorld;Indie;True
+2020;30000;RimWorld;Simulation;True
+2020;30000;RimWorld;Strategy;True
+2020;30000;Stardew Valley;Indie;True
+2020;30000;Stardew Valley;RPG;True
+2020;30000;Stardew Valley;Simulation;True
+2020;30000;Temtem;Adventure;True
+2020;30000;Temtem;Indie;True
+2020;30000;Temtem;Massively Multiplayer;True
+2020;30000;Temtem;RPG;True
+2020;30000;NBA 2K20;Simulation;False
+2020;30000;NBA 2K20;Sports;False
+2020;30000;Hades;Action;True
+2020;30000;Hades;Indie;True
+2020;30000;Hades;RPG;True
+2020;30000;Arma 3;Action;False
+2020;30000;Arma 3;Simulation;False
+2020;30000;Arma 3;Strategy;False
+2020;30000;Divinity: Original Sin 2 - Definitive Edition;Adventure;False
+2020;30000;Divinity: Original Sin 2 - Definitive Edition;RPG;False
+2020;30000;Divinity: Original Sin 2 - Definitive Edition;Strategy;False
+2020;30000;Hearts of Iron IV;Simulation;False
+2020;30000;Hearts of Iron IV;Strategy;False
+2020;30000;Europa Universalis IV;Simulation;False
+2020;30000;Europa Universalis IV;Strategy;False
+2020;30000;Don't Starve Together;Action;True
+2020;30000;Don't Starve Together;Adventure;True
+2020;30000;Don't Starve Together;Indie;True
+2020;30000;Don't Starve Together;RPG;True
+2020;30000;Don't Starve Together;Simulation;True
+2020;30000;Don't Starve Together;Strategy;True
+2020;30000;Scrap Mechanic;Action;True
+2020;30000;Scrap Mechanic;Adventure;True
+2020;30000;Scrap Mechanic;Indie;True
+2020;30000;Scrap Mechanic;Simulation;True
+2020;30000;Scrap Mechanic;Early Access;True
+2020;30000;Unturned;Action;True
+2020;30000;Unturned;Adventure;True
+2020;30000;Unturned;Casual;True
+2020;30000;Unturned;Indie;True
+2020;30000;Unturned;Free to Play;True
+2020;30000;Dark Shadows - Army of Evil;Action;True
+2020;30000;Dark Shadows - Army of Evil;Indie;True
+2020;30000;Dark Shadows - Army of Evil;RPG;True
+2020;30000;Factorio;Casual;True
+2020;30000;Factorio;Indie;True
+2020;30000;Factorio;Simulation;True
+2020;30000;Factorio;Strategy;True
+2020;30000;Last Oasis;Action;True
+2020;30000;Last Oasis;Adventure;True
+2020;30000;Last Oasis;Indie;True
+2020;30000;Last Oasis;Massively Multiplayer;True
+2020;30000;Last Oasis;RPG;True
+2020;30000;Last Oasis;Early Access;True
+2020;30000;Farming Simulator 19;Simulation;False
+2020;30000;Brawlhalla;Action;True
+2020;30000;Brawlhalla;Indie;True
+2020;30000;Brawlhalla;Free to Play;True
+2020;30000;Age of Empires II: Definitive Edition;Strategy;False
+2020;30000;Black Desert;Action;False
+2020;30000;Black Desert;Adventure;False
+2020;30000;Black Desert;Massively Multiplayer;False
+2020;30000;Black Desert;RPG;False
+2020;30000;Black Desert;Simulation;False
+2020;30000;Black Desert;Strategy;False
+2020;30000;7 Days to Die;Action;True
+2020;30000;7 Days to Die;Adventure;True
+2020;30000;7 Days to Die;Indie;True
+2020;30000;7 Days to Die;RPG;True
+2020;30000;7 Days to Die;Simulation;True
+2020;30000;7 Days to Die;Strategy;True
+2020;30000;7 Days to Die;Early Access;True
+2020;30000;STAR WARS™: Squadrons;Action;False
+2020;30000;STAR WARS™: Squadrons;Simulation;False
+2020;30000;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2020;30000;FINAL FANTASY XIV Online;RPG;False
+2020;30000;World of Tanks Blitz;Action;False
+2020;30000;World of Tanks Blitz;Massively Multiplayer;False
+2020;30000;World of Tanks Blitz;Free to Play;False
+2020;30000;The Elder Scrolls® Online;Action;False
+2020;30000;The Elder Scrolls® Online;Adventure;False
+2020;30000;The Elder Scrolls® Online;Massively Multiplayer;False
+2020;30000;The Elder Scrolls® Online;RPG;False
+2020;30000;Raft;Adventure;True
+2020;30000;Raft;Indie;True
+2020;30000;Raft;Simulation;True
+2020;30000;Tabletop Simulator;Casual;True
+2020;30000;Tabletop Simulator;Indie;True
+2020;30000;Tabletop Simulator;RPG;True
+2020;30000;Tabletop Simulator;Simulation;True
+2020;30000;Tabletop Simulator;Strategy;True
+2020;30000;DayZ;Action;False
+2020;30000;DayZ;Adventure;False
+2020;30000;DayZ;Massively Multiplayer;False
+2020;30000;STAR WARS™: The Old Republic™;Massively Multiplayer;False
+2020;30000;STAR WARS™: The Old Republic™;RPG;False
+2020;30000;STAR WARS™: The Old Republic™;Free to Play;False
+2020;30000;Counter-Strike;Action;False
+2020;30000;Dota Underlords;Casual;False
+2020;30000;Dota Underlords;Free to Play;False
+2020;30000;Dota Underlords;Strategy;False
+2021;200000;Halo Infinite;Action;False
+2021;200000;Halo Infinite;Free to Play;False
+2021;200000;Apex Legends™;Action;False
+2021;200000;Apex Legends™;Adventure;False
+2021;200000;Apex Legends™;Free to Play;False
+2021;200000;Valheim;Action;True
+2021;200000;Valheim;Adventure;True
+2021;200000;Valheim;Indie;True
+2021;200000;Valheim;RPG;True
+2021;200000;Valheim;Early Access;True
+2021;200000;New World;Action;False
+2021;200000;New World;Adventure;False
+2021;200000;New World;Massively Multiplayer;False
+2021;200000;New World;RPG;False
+2021;200000;Cyberpunk 2077;RPG;False
+2021;200000;PUBG: BATTLEGROUNDS;Action;False
+2021;200000;PUBG: BATTLEGROUNDS;Adventure;False
+2021;200000;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2021;200000;PUBG: BATTLEGROUNDS;Free to Play;False
+2021;200000;Counter-Strike 2;Action;False
+2021;200000;Counter-Strike 2;Free to Play;False
+2021;200000;Grand Theft Auto V;Action;False
+2021;200000;Grand Theft Auto V;Adventure;False
+2021;200000;Dota 2;Action;False
+2021;200000;Dota 2;Strategy;False
+2021;200000;Dota 2;Free to Play;False
+2021;200000;Rust;Action;True
+2021;200000;Rust;Adventure;True
+2021;200000;Rust;Indie;True
+2021;200000;Rust;Massively Multiplayer;True
+2021;200000;Rust;RPG;True
+2021;100000;鬼谷八荒 Tale of Immortal;Action;True
+2021;100000;鬼谷八荒 Tale of Immortal;Adventure;True
+2021;100000;鬼谷八荒 Tale of Immortal;Indie;True
+2021;100000;鬼谷八荒 Tale of Immortal;RPG;True
+2021;100000;鬼谷八荒 Tale of Immortal;Simulation;True
+2021;100000;Tom Clancy's Rainbow Six® Siege;Action;False
+2021;100000;Battlefield™ 2042;Action;False
+2021;100000;Battlefield™ 2042;Adventure;False
+2021;100000;Battlefield™ 2042;Casual;False
+2021;100000;Farming Simulator 22;Simulation;False
+2021;100000;ARK: Survival Evolved;Action;True
+2021;100000;ARK: Survival Evolved;Adventure;True
+2021;100000;ARK: Survival Evolved;Indie;True
+2021;100000;ARK: Survival Evolved;Massively Multiplayer;True
+2021;100000;ARK: Survival Evolved;RPG;True
+2021;100000;Among Us;Casual;False
+2021;100000;Team Fortress 2;Action;False
+2021;100000;Team Fortress 2;Free to Play;False
+2021;100000;Warframe;Action;False
+2021;100000;Warframe;RPG;False
+2021;100000;Warframe;Free to Play;False
+2021;100000;Dead by Daylight;Action;False
+2021;100000;Resident Evil Village;Action;False
+2021;100000;Rocket League®;Action;True
+2021;100000;Rocket League®;Indie;True
+2021;100000;Rocket League®;Racing;True
+2021;100000;Rocket League®;Sports;True
+2021;100000;NARAKA: BLADEPOINT;Action;False
+2021;100000;NARAKA: BLADEPOINT;Adventure;False
+2021;100000;NARAKA: BLADEPOINT;Massively Multiplayer;False
+2021;100000;OUTRIDERS;Action;False
+2021;100000;OUTRIDERS;Adventure;False
+2021;100000;OUTRIDERS;RPG;False
+2021;100000;Destiny 2;Action;False
+2021;100000;Destiny 2;Adventure;False
+2021;100000;Destiny 2;Free to Play;False
+2021;100000;Wallpaper Engine;Casual;True
+2021;100000;Wallpaper Engine;Indie;True
+2021;100000;Path of Exile;Action;True
+2021;100000;Path of Exile;Adventure;True
+2021;100000;Path of Exile;Indie;True
+2021;100000;Path of Exile;Massively Multiplayer;True
+2021;100000;Path of Exile;RPG;True
+2021;100000;Path of Exile;Free to Play;True
+2021;60000;Stardew Valley;Indie;True
+2021;60000;Stardew Valley;RPG;True
+2021;60000;Stardew Valley;Simulation;True
+2021;60000;Total War: WARHAMMER II;Action;False
+2021;60000;Total War: WARHAMMER II;Strategy;False
+2021;60000;The Forest;Action;True
+2021;60000;The Forest;Adventure;True
+2021;60000;The Forest;Indie;True
+2021;60000;The Forest;Simulation;True
+2021;60000;Forza Horizon 5;Action;False
+2021;60000;Forza Horizon 5;Adventure;False
+2021;60000;Forza Horizon 5;Racing;False
+2021;60000;Forza Horizon 5;Simulation;False
+2021;60000;Forza Horizon 5;Sports;False
+2021;60000;Back 4 Blood;Action;False
+2021;60000;Unturned;Action;True
+2021;60000;Unturned;Adventure;True
+2021;60000;Unturned;Casual;True
+2021;60000;Unturned;Indie;True
+2021;60000;Unturned;Free to Play;True
+2021;60000;Cookie Clicker;Casual;True
+2021;60000;Cookie Clicker;Indie;True
+2021;60000;Cookie Clicker;Simulation;True
+2021;60000;Cookie Clicker;Strategy;True
+2021;60000;The Binding of Isaac: Rebirth;Action;False
+2021;60000;Splitgate;Action;True
+2021;60000;Splitgate;Free to Play;True
+2021;60000;Splitgate;Indie;True
+2021;60000;Terraria;Action;True
+2021;60000;Terraria;Adventure;True
+2021;60000;Terraria;Indie;True
+2021;60000;Terraria;RPG;True
+2021;60000;Age of Empires IV: Anniversary Edition;Strategy;False
+2021;60000;War Thunder;Action;False
+2021;60000;War Thunder;Massively Multiplayer;False
+2021;60000;War Thunder;Simulation;False
+2021;60000;War Thunder;Free to Play;False
+2021;60000;MIR4;Action;False
+2021;60000;MIR4;Adventure;False
+2021;60000;MIR4;Free to Play;False
+2021;60000;MIR4;Massively Multiplayer;False
+2021;60000;MIR4;RPG;False
+2021;60000;Don't Starve Together;Action;True
+2021;60000;Don't Starve Together;Adventure;True
+2021;60000;Don't Starve Together;Indie;True
+2021;60000;Don't Starve Together;RPG;True
+2021;60000;Don't Starve Together;Simulation;True
+2021;60000;Don't Starve Together;Strategy;True
+2021;60000;Euro Truck Simulator 2;Indie;True
+2021;60000;Euro Truck Simulator 2;Simulation;True
+2021;60000;Bless Unleashed;Action;False
+2021;60000;Bless Unleashed;Free to Play;False
+2021;60000;Bless Unleashed;Massively Multiplayer;False
+2021;60000;Bless Unleashed;RPG;False
+2021;60000;Sea of Thieves 2023 Edition;Action;False
+2021;60000;Sea of Thieves 2023 Edition;Adventure;False
+2021;60000;PAYDAY 2;Action;False
+2021;60000;PAYDAY 2;RPG;False
+2021;60000;Tales of Arise;Action;False
+2021;60000;Tales of Arise;RPG;False
+2021;60000;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2021;60000;FINAL FANTASY XIV Online;RPG;False
+2021;60000;Phasmophobia;Action;True
+2021;60000;Phasmophobia;Indie;True
+2021;60000;Phasmophobia;Early Access;True
+2021;60000;Battlefield™ V;Action;False
+2021;30000;World of Tanks Blitz;Action;False
+2021;30000;World of Tanks Blitz;Massively Multiplayer;False
+2021;30000;World of Tanks Blitz;Free to Play;False
+2021;30000;Evil Genius 2: World Domination;Simulation;False
+2021;30000;Evil Genius 2: World Domination;Strategy;False
+2021;30000;No Man's Sky;Action;False
+2021;30000;No Man's Sky;Adventure;False
+2021;30000;Farming Simulator 19;Simulation;False
+2021;30000;Nioh 2 – The Complete Edition;Action;False
+2021;30000;Nioh 2 – The Complete Edition;RPG;False
+2021;30000;Loop Hero;Indie;True
+2021;30000;Loop Hero;RPG;True
+2021;30000;Loop Hero;Strategy;True
+2021;30000;HUMANKIND™;Strategy;False
+2021;30000;Gunfire Reborn;Action;True
+2021;30000;Gunfire Reborn;Adventure;True
+2021;30000;Gunfire Reborn;Indie;True
+2021;30000;Gunfire Reborn;RPG;True
+2021;30000;Raft;Adventure;True
+2021;30000;Raft;Indie;True
+2021;30000;Raft;Simulation;True
+2021;30000;Monster Hunter: World;Action;False
+2021;30000;Deep Rock Galactic;Action;False
+2021;30000;7 Days to Die;Action;True
+2021;30000;7 Days to Die;Adventure;True
+2021;30000;7 Days to Die;Indie;True
+2021;30000;7 Days to Die;RPG;True
+2021;30000;7 Days to Die;Simulation;True
+2021;30000;7 Days to Die;Strategy;True
+2021;30000;7 Days to Die;Early Access;True
+2021;30000;Draw & Guess;Casual;True
+2021;30000;Draw & Guess;Indie;True
+2021;30000;DayZ;Action;False
+2021;30000;DayZ;Adventure;False
+2021;30000;DayZ;Massively Multiplayer;False
+2021;30000;EA SPORTS™ FIFA 21;Simulation;False
+2021;30000;EA SPORTS™ FIFA 21;Sports;False
+2021;30000;Myth of Empires;Action;True
+2021;30000;Myth of Empires;Adventure;True
+2021;30000;Myth of Empires;Indie;True
+2021;30000;Myth of Empires;Massively Multiplayer;True
+2021;30000;Myth of Empires;RPG;True
+2021;30000;Sid Meier's Civilization® V;Strategy;False
+2021;30000;Satisfactory;Adventure;True
+2021;30000;Satisfactory;Indie;True
+2021;30000;Satisfactory;Simulation;True
+2021;30000;Satisfactory;Strategy;True
+2021;30000;Satisfactory;Early Access;True
+2021;30000;Cities: Skylines;Simulation;False
+2021;30000;Cities: Skylines;Strategy;False
+2021;30000;tModLoader;Action;True
+2021;30000;tModLoader;Adventure;True
+2021;30000;tModLoader;Indie;True
+2021;30000;tModLoader;RPG;True
+2021;30000;tModLoader;Free to Play;True
+2021;30000;BIOMUTANT;Action;False
+2021;30000;BIOMUTANT;RPG;False
+2021;30000;ICARUS;Action;False
+2021;30000;ICARUS;Adventure;False
+2021;30000;ICARUS;Simulation;False
+2021;30000;Project Zomboid;Indie;True
+2021;30000;Project Zomboid;RPG;True
+2021;30000;Project Zomboid;Simulation;True
+2021;30000;Project Zomboid;Early Access;True
+2021;30000;Eternal Return;Indie;True
+2021;30000;Eternal Return;Strategy;True
+2021;30000;Eternal Return;Free to Play;True
+2021;30000;Mass Effect™ Legendary Edition;Action;False
+2021;30000;Mass Effect™ Legendary Edition;RPG;False
+2021;30000;Brawlhalla;Action;True
+2021;30000;Brawlhalla;Indie;True
+2021;30000;Brawlhalla;Free to Play;True
+2021;30000;Tribes of Midgard;Action;True
+2021;30000;Tribes of Midgard;Adventure;True
+2021;30000;Tribes of Midgard;Indie;True
+2021;30000;Tribes of Midgard;RPG;True
+2021;30000;Fallout 4;RPG;False
+2021;30000;The Elder Scrolls® Online;Action;False
+2021;30000;The Elder Scrolls® Online;Adventure;False
+2021;30000;The Elder Scrolls® Online;Massively Multiplayer;False
+2021;30000;The Elder Scrolls® Online;RPG;False
+2021;30000;Dyson Sphere Program;Indie;True
+2021;30000;Dyson Sphere Program;Simulation;True
+2021;30000;Dyson Sphere Program;Strategy;True
+2021;30000;Dyson Sphere Program;Early Access;True
+2021;30000;Hades;Action;True
+2021;30000;Hades;Indie;True
+2021;30000;Hades;RPG;True
+2021;30000;SMITE®;Action;False
+2021;30000;SMITE®;Adventure;False
+2021;30000;SMITE®;Casual;False
+2021;30000;SMITE®;Massively Multiplayer;False
+2021;30000;SMITE®;RPG;False
+2021;30000;SMITE®;Strategy;False
+2021;30000;SMITE®;Free to Play;False
+2021;30000;Company of Heroes 2;Strategy;False
+2021;30000;Hearts of Iron IV;Simulation;False
+2021;30000;Hearts of Iron IV;Strategy;False
+2021;30000;Battlefield™ 1;Action;False
+2021;30000;Battlefield™ 1;Massively Multiplayer;False
+2021;30000;Age of Empires II: Definitive Edition;Strategy;False
+2021;30000;Phantasy Star Online 2 New Genesis;Action;False
+2021;30000;Phantasy Star Online 2 New Genesis;Massively Multiplayer;False
+2021;30000;Phantasy Star Online 2 New Genesis;RPG;False
+2021;30000;Phantasy Star Online 2 New Genesis;Free to Play;False
+2021;30000;Monster Hunter Stories 2: Wings of Ruin;Adventure;False
+2021;30000;Monster Hunter Stories 2: Wings of Ruin;RPG;False
+2021;30000;Sid Meier’s Civilization® VI;Strategy;False
+2021;30000;Dying Light;Action;False
+2021;30000;Dying Light;RPG;False
+2021;30000;Crab Game;Action;True
+2021;30000;Crab Game;Casual;True
+2021;30000;Crab Game;Free to Play;True
+2021;30000;Crab Game;Indie;True
+2021;30000;Crab Game;Racing;True
+2021;30000;Pathfinder: Wrath of the Righteous - Enhanced Edition;Adventure;True
+2021;30000;Pathfinder: Wrath of the Righteous - Enhanced Edition;Indie;True
+2021;30000;Pathfinder: Wrath of the Righteous - Enhanced Edition;RPG;True
+2021;30000;Pathfinder: Wrath of the Righteous - Enhanced Edition;Strategy;True
+2021;30000;RimWorld;Indie;True
+2021;30000;RimWorld;Simulation;True
+2021;30000;RimWorld;Strategy;True
+2021;30000;FIFA 22;Simulation;False
+2021;30000;FIFA 22;Sports;False
+2021;30000;Left 4 Dead 2;Action;False
+2021;30000;Bloons TD 6;Strategy;False
+2021;30000;Arma 3;Action;False
+2021;30000;Arma 3;Simulation;False
+2021;30000;Arma 3;Strategy;False
+2021;30000;Hunt: Showdown;Action;False
+2021;30000;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2021;30000;Garry's Mod;Casual;True
+2021;30000;Garry's Mod;Indie;True
+2021;30000;Garry's Mod;Simulation;True
+2021;30000;Stellaris;Simulation;False
+2021;30000;Stellaris;Strategy;False
+2021;30000;Risk of Rain 2;Action;True
+2021;30000;Risk of Rain 2;Indie;True
+2021;30000;GUILTY GEAR -STRIVE-;Action;False
+2021;30000;The Witcher® 3: Wild Hunt;RPG;False
+2022;240000;Dying Light 2 Stay Human: Reloaded Edition;Action;False
+2022;240000;Dying Light 2 Stay Human: Reloaded Edition;Adventure;False
+2022;240000;Dying Light 2 Stay Human: Reloaded Edition;RPG;False
+2022;240000;Apex Legends™;Action;False
+2022;240000;Apex Legends™;Adventure;False
+2022;240000;Apex Legends™;Free to Play;False
+2022;240000;Call of Duty®;Action;False
+2022;240000;ELDEN RING;Action;False
+2022;240000;ELDEN RING;RPG;False
+2022;240000;PUBG: BATTLEGROUNDS;Action;False
+2022;240000;PUBG: BATTLEGROUNDS;Adventure;False
+2022;240000;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2022;240000;PUBG: BATTLEGROUNDS;Free to Play;False
+2022;240000;Counter-Strike 2;Action;False
+2022;240000;Counter-Strike 2;Free to Play;False
+2022;240000;Lost Ark;Action;False
+2022;240000;Lost Ark;Adventure;False
+2022;240000;Lost Ark;Massively Multiplayer;False
+2022;240000;Lost Ark;RPG;False
+2022;240000;Lost Ark;Free to Play;False
+2022;240000;Yu-Gi-Oh! Master Duel;Simulation;False
+2022;240000;Yu-Gi-Oh! Master Duel;Strategy;False
+2022;240000;Yu-Gi-Oh! Master Duel;Free to Play;False
+2022;240000;Goose Goose Duck;Casual;True
+2022;240000;Goose Goose Duck;Indie;True
+2022;240000;Goose Goose Duck;Massively Multiplayer;True
+2022;240000;Goose Goose Duck;Strategy;True
+2022;240000;Goose Goose Duck;Free to Play;True
+2022;240000;ARK: Survival Evolved;Action;True
+2022;240000;ARK: Survival Evolved;Adventure;True
+2022;240000;ARK: Survival Evolved;Indie;True
+2022;240000;ARK: Survival Evolved;Massively Multiplayer;True
+2022;240000;ARK: Survival Evolved;RPG;True
+2022;240000;Destiny 2;Action;False
+2022;240000;Destiny 2;Adventure;False
+2022;240000;Destiny 2;Free to Play;False
+2022;240000;Dota 2;Action;False
+2022;240000;Dota 2;Strategy;False
+2022;240000;Dota 2;Free to Play;False
+2022;130000;Total War: WARHAMMER III;Action;False
+2022;130000;Total War: WARHAMMER III;Strategy;False
+2022;130000;Team Fortress 2;Action;False
+2022;130000;Team Fortress 2;Free to Play;False
+2022;130000;MONSTER HUNTER RISE;Action;False
+2022;130000;Rust;Action;True
+2022;130000;Rust;Adventure;True
+2022;130000;Rust;Indie;True
+2022;130000;Rust;Massively Multiplayer;True
+2022;130000;Rust;RPG;True
+2022;130000;MultiVersus;Action;False
+2022;130000;MultiVersus;Free to Play;False
+2022;130000;Cyberpunk 2077;RPG;False
+2022;130000;Wallpaper Engine;Casual;True
+2022;130000;Wallpaper Engine;Indie;True
+2022;130000;NARAKA: BLADEPOINT;Action;False
+2022;130000;NARAKA: BLADEPOINT;Adventure;False
+2022;130000;NARAKA: BLADEPOINT;Massively Multiplayer;False
+2022;130000;Path of Exile;Action;True
+2022;130000;Path of Exile;Adventure;True
+2022;130000;Path of Exile;Indie;True
+2022;130000;Path of Exile;Massively Multiplayer;True
+2022;130000;Path of Exile;RPG;True
+2022;130000;Path of Exile;Free to Play;True
+2022;130000;New World;Action;False
+2022;130000;New World;Adventure;False
+2022;130000;New World;Massively Multiplayer;False
+2022;130000;New World;RPG;False
+2022;130000;Grand Theft Auto V;Action;False
+2022;130000;Grand Theft Auto V;Adventure;False
+2022;130000;V Rising;Action;False
+2022;130000;V Rising;Adventure;False
+2022;130000;V Rising;Massively Multiplayer;False
+2022;130000;V Rising;Early Access;False
+2022;75000;Warhammer 40,000: Darktide;Action;True
+2022;75000;Warhammer 40,000: Darktide;Adventure;True
+2022;75000;Warhammer 40,000: Darktide;Indie;True
+2022;75000;The Forest;Action;True
+2022;75000;The Forest;Adventure;True
+2022;75000;The Forest;Indie;True
+2022;75000;The Forest;Simulation;True
+2022;75000;FIFA 22;Simulation;False
+2022;75000;FIFA 22;Sports;False
+2022;75000;Dead by Daylight;Action;False
+2022;75000;The Witcher® 3: Wild Hunt;RPG;False
+2022;75000;Sid Meier’s Civilization® VI;Strategy;False
+2022;75000;The Sims™ 4;Adventure;False
+2022;75000;The Sims™ 4;Casual;False
+2022;75000;The Sims™ 4;Simulation;False
+2022;75000;The Sims™ 4;Free to Play;False
+2022;75000;Unturned;Action;True
+2022;75000;Unturned;Adventure;True
+2022;75000;Unturned;Casual;True
+2022;75000;Unturned;Indie;True
+2022;75000;Unturned;Free to Play;True
+2022;75000;Need for Speed™ Heat;Action;False
+2022;75000;Need for Speed™ Heat;Adventure;False
+2022;75000;Need for Speed™ Heat;Racing;False
+2022;75000;Need for Speed™ Heat;Sports;False
+2022;75000;LEGO® Star Wars™: The Skywalker Saga;Action;False
+2022;75000;LEGO® Star Wars™: The Skywalker Saga;Adventure;False
+2022;75000;Valheim;Action;True
+2022;75000;Valheim;Adventure;True
+2022;75000;Valheim;Indie;True
+2022;75000;Valheim;RPG;True
+2022;75000;Valheim;Early Access;True
+2022;75000;Left 4 Dead 2;Action;False
+2022;75000;EA SPORTS™ FIFA 23;Simulation;False
+2022;75000;EA SPORTS™ FIFA 23;Sports;False
+2022;75000;Vampire Survivors;Action;True
+2022;75000;Vampire Survivors;Casual;True
+2022;75000;Vampire Survivors;Indie;True
+2022;75000;Vampire Survivors;RPG;True
+2022;75000;War Thunder;Action;False
+2022;75000;War Thunder;Massively Multiplayer;False
+2022;75000;War Thunder;Simulation;False
+2022;75000;War Thunder;Free to Play;False
+2022;75000;Warframe;Action;False
+2022;75000;Warframe;RPG;False
+2022;75000;Warframe;Free to Play;False
+2022;75000;Dread Hunger;Action;True
+2022;75000;Dread Hunger;Adventure;True
+2022;75000;Dread Hunger;Indie;True
+2022;75000;Raft;Adventure;True
+2022;75000;Raft;Indie;True
+2022;75000;Raft;Simulation;True
+2022;75000;Tom Clancy's Rainbow Six® Siege;Action;False
+2022;75000;Terraria;Action;True
+2022;75000;Terraria;Adventure;True
+2022;75000;Terraria;Indie;True
+2022;75000;Terraria;RPG;True
+2022;75000;Warhammer: Vermintide 2;Action;True
+2022;75000;Warhammer: Vermintide 2;Indie;True
+2022;40000;NBA 2K22;Simulation;False
+2022;40000;NBA 2K22;Sports;False
+2022;40000;太吾绘卷 The Scroll Of Taiwu;Adventure;True
+2022;40000;太吾绘卷 The Scroll Of Taiwu;Casual;True
+2022;40000;太吾绘卷 The Scroll Of Taiwu;Indie;True
+2022;40000;太吾绘卷 The Scroll Of Taiwu;RPG;True
+2022;40000;太吾绘卷 The Scroll Of Taiwu;Strategy;True
+2022;40000;太吾绘卷 The Scroll Of Taiwu;Early Access;True
+2022;40000;7 Days to Die;Action;True
+2022;40000;7 Days to Die;Adventure;True
+2022;40000;7 Days to Die;Indie;True
+2022;40000;7 Days to Die;RPG;True
+2022;40000;7 Days to Die;Simulation;True
+2022;40000;7 Days to Die;Strategy;True
+2022;40000;7 Days to Die;Early Access;True
+2022;40000;UNDECEMBER;Action;False
+2022;40000;UNDECEMBER;Free to Play;False
+2022;40000;UNDECEMBER;RPG;False
+2022;40000;Stumble Guys;Action;True
+2022;40000;Stumble Guys;Casual;True
+2022;40000;Stumble Guys;Indie;True
+2022;40000;Stumble Guys;Massively Multiplayer;True
+2022;40000;Stumble Guys;Free to Play;True
+2022;40000;World of Tanks Blitz;Action;False
+2022;40000;World of Tanks Blitz;Massively Multiplayer;False
+2022;40000;World of Tanks Blitz;Free to Play;False
+2022;40000;Mirror 2: Project X;Adventure;True
+2022;40000;Mirror 2: Project X;Indie;True
+2022;40000;Mirror 2: Project X;RPG;True
+2022;40000;Mirror 2: Project X;Early Access;True
+2022;40000;Deep Rock Galactic;Action;False
+2022;40000;Red Dead Redemption 2;Action;False
+2022;40000;Red Dead Redemption 2;Adventure;False
+2022;40000;Project Zomboid;Indie;True
+2022;40000;Project Zomboid;RPG;True
+2022;40000;Project Zomboid;Simulation;True
+2022;40000;Project Zomboid;Early Access;True
+2022;40000;Fall Guys;Action;True
+2022;40000;Fall Guys;Casual;True
+2022;40000;Fall Guys;Indie;True
+2022;40000;Fall Guys;Massively Multiplayer;True
+2022;40000;Fall Guys;Sports;True
+2022;40000;God of War;Action;False
+2022;40000;God of War;Adventure;False
+2022;40000;God of War;RPG;False
+2022;40000;VRChat;Adventure;False
+2022;40000;VRChat;Casual;False
+2022;40000;VRChat;Massively Multiplayer;False
+2022;40000;VRChat;Simulation;False
+2022;40000;VRChat;Sports;False
+2022;40000;VRChat;Free to Play;False
+2022;40000;VRChat;Early Access;False
+2022;40000;Don't Starve Together;Action;True
+2022;40000;Don't Starve Together;Adventure;True
+2022;40000;Don't Starve Together;Indie;True
+2022;40000;Don't Starve Together;RPG;True
+2022;40000;Don't Starve Together;Simulation;True
+2022;40000;Don't Starve Together;Strategy;True
+2022;40000;Phasmophobia;Action;True
+2022;40000;Phasmophobia;Indie;True
+2022;40000;Phasmophobia;Early Access;True
+2022;40000;GUNDAM EVOLUTION;Action;False
+2022;40000;GUNDAM EVOLUTION;Free to Play;False
+2022;40000;PAYDAY 2;Action;False
+2022;40000;PAYDAY 2;RPG;False
+2022;40000;Cult of the Lamb;Action;True
+2022;40000;Cult of the Lamb;Adventure;True
+2022;40000;Cult of the Lamb;Indie;True
+2022;40000;Cult of the Lamb;Strategy;True
+2022;40000;MIR4;Action;False
+2022;40000;MIR4;Adventure;False
+2022;40000;MIR4;Free to Play;False
+2022;40000;MIR4;Massively Multiplayer;False
+2022;40000;MIR4;RPG;False
+2022;40000;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2022;40000;Halo Infinite;Action;False
+2022;40000;Halo Infinite;Free to Play;False
+2022;40000;RimWorld;Indie;True
+2022;40000;RimWorld;Simulation;True
+2022;40000;RimWorld;Strategy;True
+2022;40000;Mount & Blade II: Bannerlord;Action;True
+2022;40000;Mount & Blade II: Bannerlord;Indie;True
+2022;40000;Mount & Blade II: Bannerlord;RPG;True
+2022;40000;Mount & Blade II: Bannerlord;Simulation;True
+2022;40000;Mount & Blade II: Bannerlord;Strategy;True
+2022;40000;Victoria 3;Simulation;False
+2022;40000;Victoria 3;Strategy;False
+2022;40000;Stellaris;Simulation;False
+2022;40000;Stellaris;Strategy;False
+2022;40000;Hearts of Iron IV;Simulation;False
+2022;40000;Hearts of Iron IV;Strategy;False
+2022;40000;SUPER PEOPLE 2;Action;False
+2022;40000;SUPER PEOPLE 2;Casual;False
+2022;40000;SUPER PEOPLE 2;Massively Multiplayer;False
+2022;40000;SUPER PEOPLE 2;Free to Play;False
+2022;40000;SUPER PEOPLE 2;Early Access;False
+2022;40000;Battlefield™ V;Action;False
+2022;40000;Garry's Mod;Casual;True
+2022;40000;Garry's Mod;Indie;True
+2022;40000;Garry's Mod;Simulation;True
+2022;40000;DayZ;Action;False
+2022;40000;DayZ;Adventure;False
+2022;40000;DayZ;Massively Multiplayer;False
+2022;40000;Marvel’s Spider-Man Remastered;Action;False
+2022;40000;Marvel’s Spider-Man Remastered;Adventure;False
+2022;40000;Marvel’s Spider-Man Remastered;Casual;False
+2022;40000;Risk of Rain 2;Action;True
+2022;40000;Risk of Rain 2;Indie;True
+2022;40000;No Man's Sky;Action;False
+2022;40000;No Man's Sky;Adventure;False
+2022;40000;Stray;Adventure;True
+2022;40000;Stray;Indie;True
+2022;40000;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2022;40000;FINAL FANTASY XIV Online;RPG;False
+2022;40000;Crusader Kings III;RPG;False
+2022;40000;Crusader Kings III;Simulation;False
+2022;40000;Crusader Kings III;Strategy;False
+2022;40000;Farming Simulator 22;Simulation;False
+2022;40000;The Cycle: Frontier;Action;False
+2022;40000;The Cycle: Frontier;Free to Play;False
+2022;40000;The Cycle: Frontier;Massively Multiplayer;False
+2022;40000;Euro Truck Simulator 2;Indie;True
+2022;40000;Euro Truck Simulator 2;Simulation;True
+2022;40000;Stardew Valley;Indie;True
+2022;40000;Stardew Valley;RPG;True
+2022;40000;Stardew Valley;Simulation;True
+2022;40000;暖雪 Warm Snow;Action;True
+2022;40000;暖雪 Warm Snow;Adventure;True
+2022;40000;暖雪 Warm Snow;Indie;True
+2022;40000;暖雪 Warm Snow;RPG;True
+2022;40000;Conan Exiles;Action;False
+2022;40000;Conan Exiles;Adventure;False
+2022;40000;Conan Exiles;Massively Multiplayer;False
+2022;40000;Conan Exiles;RPG;False
+2022;40000;Conan Exiles;Simulation;False
+2022;40000;Conan Exiles;Strategy;False
+2022;40000;Battlefield™ 1;Action;False
+2022;40000;Battlefield™ 1;Massively Multiplayer;False
+2023;300000;Baldur's Gate 3;Adventure;False
+2023;300000;Baldur's Gate 3;RPG;False
+2023;300000;Baldur's Gate 3;Strategy;False
+2023;300000;Goose Goose Duck;Casual;True
+2023;300000;Goose Goose Duck;Indie;True
+2023;300000;Goose Goose Duck;Massively Multiplayer;True
+2023;300000;Goose Goose Duck;Strategy;True
+2023;300000;Goose Goose Duck;Free to Play;True
+2023;300000;Apex Legends™;Action;False
+2023;300000;Apex Legends™;Adventure;False
+2023;300000;Apex Legends™;Free to Play;False
+2023;300000;Dota 2;Action;False
+2023;300000;Dota 2;Strategy;False
+2023;300000;Dota 2;Free to Play;False
+2023;300000;Hogwarts Legacy;Action;False
+2023;300000;Hogwarts Legacy;Adventure;False
+2023;300000;Hogwarts Legacy;RPG;False
+2023;300000;Destiny 2;Action;False
+2023;300000;Destiny 2;Adventure;False
+2023;300000;Destiny 2;Free to Play;False
+2023;300000;Starfield;RPG;False
+2023;300000;Lost Ark;Action;False
+2023;300000;Lost Ark;Adventure;False
+2023;300000;Lost Ark;Massively Multiplayer;False
+2023;300000;Lost Ark;RPG;False
+2023;300000;Lost Ark;Free to Play;False
+2023;300000;PUBG: BATTLEGROUNDS;Action;False
+2023;300000;PUBG: BATTLEGROUNDS;Adventure;False
+2023;300000;PUBG: BATTLEGROUNDS;Massively Multiplayer;False
+2023;300000;PUBG: BATTLEGROUNDS;Free to Play;False
+2023;300000;Counter-Strike 2;Action;False
+2023;300000;Counter-Strike 2;Free to Play;False
+2023;300000;Sons Of The Forest;Action;True
+2023;300000;Sons Of The Forest;Adventure;True
+2023;300000;Sons Of The Forest;Indie;True
+2023;300000;Sons Of The Forest;Simulation;True
+2023;150000;THE FINALS;Action;False
+2023;150000;THE FINALS;Free to Play;False
+2023;150000;Grand Theft Auto V;Action;False
+2023;150000;Grand Theft Auto V;Adventure;False
+2023;150000;Resident Evil 4;Action;False
+2023;150000;Resident Evil 4;Adventure;False
+2023;150000;Team Fortress 2;Action;False
+2023;150000;Team Fortress 2;Free to Play;False
+2023;150000;Path of Exile;Action;True
+2023;150000;Path of Exile;Adventure;True
+2023;150000;Path of Exile;Indie;True
+2023;150000;Path of Exile;Massively Multiplayer;True
+2023;150000;Path of Exile;RPG;True
+2023;150000;Path of Exile;Free to Play;True
+2023;150000;NARAKA: BLADEPOINT;Action;False
+2023;150000;NARAKA: BLADEPOINT;Adventure;False
+2023;150000;NARAKA: BLADEPOINT;Massively Multiplayer;False
+2023;150000;ARMORED CORE™ VI FIRES OF RUBICON™;Action;False
+2023;150000;Call of Duty®;Action;False
+2023;150000;Cyberpunk 2077;RPG;False
+2023;150000;Rust;Action;True
+2023;150000;Rust;Adventure;True
+2023;150000;Rust;Indie;True
+2023;150000;Rust;Massively Multiplayer;True
+2023;150000;Rust;RPG;True
+2023;150000;Lethal Company;Action;True
+2023;150000;Lethal Company;Adventure;True
+2023;150000;Lethal Company;Indie;True
+2023;150000;Lethal Company;Early Access;True
+2023;80000;BattleBit Remastered;Action;False
+2023;80000;BattleBit Remastered;Massively Multiplayer;False
+2023;80000;BattleBit Remastered;Early Access;False
+2023;80000;Battlefield™ V;Action;False
+2023;80000;Unturned;Action;True
+2023;80000;Unturned;Adventure;True
+2023;80000;Unturned;Casual;True
+2023;80000;Unturned;Indie;True
+2023;80000;Unturned;Free to Play;True
+2023;80000;War Thunder;Action;False
+2023;80000;War Thunder;Massively Multiplayer;False
+2023;80000;War Thunder;Simulation;False
+2023;80000;War Thunder;Free to Play;False
+2023;80000;EA SPORTS FC™ 24;Simulation;False
+2023;80000;EA SPORTS FC™ 24;Sports;False
+2023;80000;Party Animals;Action;True
+2023;80000;Party Animals;Casual;True
+2023;80000;Party Animals;Indie;True
+2023;80000;7 Days to Die;Action;True
+2023;80000;7 Days to Die;Adventure;True
+2023;80000;7 Days to Die;Indie;True
+2023;80000;7 Days to Die;RPG;True
+2023;80000;7 Days to Die;Simulation;True
+2023;80000;7 Days to Die;Strategy;True
+2023;80000;7 Days to Die;Early Access;True
+2023;80000;Battlefield™ 2042;Action;False
+2023;80000;Battlefield™ 2042;Adventure;False
+2023;80000;Battlefield™ 2042;Casual;False
+2023;80000;Left 4 Dead 2;Action;False
+2023;80000;REMNANT II®;Action;False
+2023;80000;REMNANT II®;Adventure;False
+2023;80000;REMNANT II®;RPG;False
+2023;80000;Phasmophobia;Action;True
+2023;80000;Phasmophobia;Indie;True
+2023;80000;Phasmophobia;Early Access;True
+2023;80000;Don't Starve Together;Action;True
+2023;80000;Don't Starve Together;Adventure;True
+2023;80000;Don't Starve Together;Indie;True
+2023;80000;Don't Starve Together;RPG;True
+2023;80000;Don't Starve Together;Simulation;True
+2023;80000;Don't Starve Together;Strategy;True
+2023;80000;DAVE THE DIVER;Adventure;True
+2023;80000;DAVE THE DIVER;Casual;True
+2023;80000;DAVE THE DIVER;Indie;True
+2023;80000;DAVE THE DIVER;RPG;True
+2023;80000;DAVE THE DIVER;Simulation;True
+2023;80000;ARK: Survival Evolved;Action;True
+2023;80000;ARK: Survival Evolved;Adventure;True
+2023;80000;ARK: Survival Evolved;Indie;True
+2023;80000;ARK: Survival Evolved;Massively Multiplayer;True
+2023;80000;ARK: Survival Evolved;RPG;True
+2023;80000;Sid Meier’s Civilization® VI;Strategy;False
+2023;80000;Warframe;Action;False
+2023;80000;Warframe;RPG;False
+2023;80000;Warframe;Free to Play;False
+2023;80000;Cities: Skylines II;Simulation;False
+2023;80000;ELDEN RING;Action;False
+2023;80000;ELDEN RING;RPG;False
+2023;80000;Tom Clancy's Rainbow Six® Siege;Action;False
+2023;80000;Valheim;Action;True
+2023;80000;Valheim;Adventure;True
+2023;80000;Valheim;Indie;True
+2023;80000;Valheim;RPG;True
+2023;80000;Valheim;Early Access;True
+2023;80000;Football Manager 2024;Simulation;False
+2023;80000;Football Manager 2024;Sports;False
+2023;80000;Football Manager 2024;Strategy;False
+2023;80000;EA SPORTS™ FIFA 23;Simulation;False
+2023;80000;EA SPORTS™ FIFA 23;Sports;False
+2023;80000;VPet;Casual;True
+2023;80000;VPet;Indie;True
+2023;80000;VPet;RPG;True
+2023;80000;VPet;Simulation;True
+2023;80000;VPet;Free to Play;True
+2023;80000;Dead by Daylight;Action;False
+2023;80000;ARK: Survival Ascended;Action;True
+2023;80000;ARK: Survival Ascended;Adventure;True
+2023;80000;ARK: Survival Ascended;Indie;True
+2023;80000;ARK: Survival Ascended;Massively Multiplayer;True
+2023;80000;ARK: Survival Ascended;RPG;True
+2023;80000;ARK: Survival Ascended;Early Access;True
+2023;40000;Total War: WARHAMMER III;Action;False
+2023;40000;Total War: WARHAMMER III;Strategy;False
+2023;40000;Rocket League®;Action;True
+2023;40000;Rocket League®;Indie;True
+2023;40000;Rocket League®;Racing;True
+2023;40000;Rocket League®;Sports;True
+2023;40000;Love Is All Around;Adventure;True
+2023;40000;Love Is All Around;Indie;True
+2023;40000;Love Is All Around;RPG;True
+2023;40000;Love Is All Around;Simulation;True
+2023;40000;Love Is All Around;Strategy;True
+2023;40000;Farlight 84;Action;False
+2023;40000;Farlight 84;Adventure;False
+2023;40000;Farlight 84;Massively Multiplayer;False
+2023;40000;Farlight 84;Free to Play;False
+2023;40000;Cities: Skylines;Simulation;False
+2023;40000;Cities: Skylines;Strategy;False
+2023;40000;Street Fighter™ 6;Action;False
+2023;40000;Street Fighter™ 6;Adventure;False
+2023;40000;Hunt: Showdown;Action;False
+2023;40000;Red Dead Redemption 2;Action;False
+2023;40000;Red Dead Redemption 2;Adventure;False
+2023;40000;STAR WARS Jedi: Survivor™;Action;False
+2023;40000;STAR WARS Jedi: Survivor™;Adventure;False
+2023;40000;Wo Long: Fallen Dynasty;Action;False
+2023;40000;Wo Long: Fallen Dynasty;Adventure;False
+2023;40000;Wo Long: Fallen Dynasty;RPG;False
+2023;40000;Risk of Rain Returns;Action;False
+2023;40000;Garry's Mod;Casual;True
+2023;40000;Garry's Mod;Indie;True
+2023;40000;Garry's Mod;Simulation;True
+2023;40000;Hearts of Iron IV;Simulation;False
+2023;40000;Hearts of Iron IV;Strategy;False
+2023;40000;MONSTER HUNTER RISE;Action;False
+2023;40000;Farming Simulator 22;Simulation;False
+2023;40000;V Rising;Action;False
+2023;40000;V Rising;Adventure;False
+2023;40000;V Rising;Massively Multiplayer;False
+2023;40000;V Rising;Early Access;False
+2023;40000;Overwatch® 2;Action;False
+2023;40000;Overwatch® 2;Free to Play;False
+2023;40000;Project Zomboid;Indie;True
+2023;40000;Project Zomboid;RPG;True
+2023;40000;Project Zomboid;Simulation;True
+2023;40000;Project Zomboid;Early Access;True
+2023;40000;FINAL FANTASY XIV Online;Massively Multiplayer;False
+2023;40000;FINAL FANTASY XIV Online;RPG;False
+2023;40000;Last Epoch;Action;True
+2023;40000;Last Epoch;Adventure;True
+2023;40000;Last Epoch;Indie;True
+2023;40000;Last Epoch;RPG;True
+2023;40000;The Elder Scrolls V: Skyrim Special Edition;RPG;False
+2023;40000;The Witcher® 3: Wild Hunt;RPG;False
+2023;40000;tModLoader;Action;True
+2023;40000;tModLoader;Adventure;True
+2023;40000;tModLoader;Indie;True
+2023;40000;tModLoader;RPG;True
+2023;40000;tModLoader;Free to Play;True
+2023;40000;Monster Hunter: World;Action;False
+2023;40000;HoloCure - Save the Fans!;Action;True
+2023;40000;HoloCure - Save the Fans!;Adventure;True
+2023;40000;HoloCure - Save the Fans!;Casual;True
+2023;40000;HoloCure - Save the Fans!;Indie;True
+2023;40000;Stardew Valley;Indie;True
+2023;40000;Stardew Valley;RPG;True
+2023;40000;Stardew Valley;Simulation;True
+2023;40000;The Forest;Action;True
+2023;40000;The Forest;Adventure;True
+2023;40000;The Forest;Indie;True
+2023;40000;The Forest;Simulation;True
+2023;40000;The Sims™ 4;Adventure;False
+2023;40000;The Sims™ 4;Casual;False
+2023;40000;The Sims™ 4;Simulation;False
+2023;40000;The Sims™ 4;Free to Play;False
+2023;40000;Age of Wonders 4;Strategy;False
+2023;40000;NBA 2K23;Simulation;False
+2023;40000;NBA 2K23;Sports;False
+2023;40000;Terraria;Action;True
+2023;40000;Terraria;Adventure;True
+2023;40000;Terraria;Indie;True
+2023;40000;Terraria;RPG;True
+2023;40000;PAYDAY 3;Action;False
+2023;40000;PAYDAY 3;Adventure;False
+2023;40000;PAYDAY 3;RPG;False
+2023;40000;Lords of the Fallen;Action;False
+2023;40000;Lords of the Fallen;Adventure;False
+2023;40000;Lords of the Fallen;RPG;False
+2023;40000;Crab Game;Action;True
+2023;40000;Crab Game;Casual;True
+2023;40000;Crab Game;Free to Play;True
+2023;40000;Crab Game;Indie;True
+2023;40000;Crab Game;Racing;True
+2023;40000;Sea of Thieves 2023 Edition;Action;False
+2023;40000;Sea of Thieves 2023 Edition;Adventure;False
+2023;40000;Yu-Gi-Oh! Master Duel;Simulation;False
+2023;40000;Yu-Gi-Oh! Master Duel;Strategy;False
+2023;40000;Yu-Gi-Oh! Master Duel;Free to Play;False
+2023;40000;DayZ;Action;False
+2023;40000;DayZ;Adventure;False
+2023;40000;DayZ;Massively Multiplayer;False
+2023;40000;Euro Truck Simulator 2;Indie;True
+2023;40000;Euro Truck Simulator 2;Simulation;True
+2023;40000;New World;Action;False
+2023;40000;New World;Adventure;False
+2023;40000;New World;Massively Multiplayer;False
+2023;40000;New World;RPG;False
+2023;40000;MY HERO ULTRA RUMBLE;Action;False
+2023;40000;MY HERO ULTRA RUMBLE;Casual;False
+2023;40000;MY HERO ULTRA RUMBLE;Free to Play;False
+2023;40000;VRChat;Adventure;False
+2023;40000;VRChat;Casual;False
+2023;40000;VRChat;Massively Multiplayer;False
+2023;40000;VRChat;Simulation;False
+2023;40000;VRChat;Sports;False
+2023;40000;VRChat;Free to Play;False
+2023;40000;VRChat;Early Access;False
+2023;40000;PAYDAY 2;Action;False
+2023;40000;PAYDAY 2;RPG;False
